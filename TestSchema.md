@@ -1,17 +1,11 @@
-Voici la version mise à jour avec les modifications demandées :
 
-- **Séparation des Réseaux et Cloud**
-- **Données** séparé avec l'ajout de l'Intelligence Artificielle
-- **Blockchain** regroupé sous **Innovation Technologique**
-
-### Schéma Global
+### Schéma Global Mis à Jour
 
 ```mermaid
 graph TD
     A[Directeur des Systèmes d'Information] --> B[Architecture SI]
     A --> C[Sécurité]
     A --> D[Réseaux]
-    A --> E[Cloud]
     A --> F[Données]
     A --> G[Transformation Numérique]
     A --> H[Innovation Technologique]
@@ -73,21 +67,18 @@ graph TD
     C3 --> C3a[Gestion des Identités et Accès]
 ```
 
-### Détails Supplémentaires - Réseaux
+### Détails Supplémentaires - Réseaux et Cloud
 
 ```mermaid
 graph TD
     D[Réseaux] --> D1[Réseaux d'Entreprise]
+    D --> E[Cloud]
 
     %% Réseaux d'Entreprise
     D1 --> D1a[Infrastructure Réseaux]
-```
 
-### Détails Supplémentaires - Cloud
-
-```mermaid
-graph TD
-    E[Cloud] --> E1[Solutions Cloud]
+    %% Cloud
+    E --> E1[Solutions Cloud]
     E --> E2[Gestion des Risques Cloud]
 
     %% Solutions Cloud
@@ -130,47 +121,58 @@ graph TD
     I3 --> I3b[Agents Intelligents]
 ```
 
-### Détails Supplémentaires - Transformation Numérique
+### Détails Supplémentaires - Transformation Numérique et Innovation Technologique
 
 ```mermaid
 graph TD
     G[Transformation Numérique] --> G1[Gestion des Projets]
     G --> G2[Transformation Digitale]
+    G --> H[Innovation Technologique]
 
     %% Gestion des Projets
     G1 --> G1a[Gestion des Projets Agile]
 
     %% Transformation Digitale
     G2 --> G2a[Transformation Digitale des Processus]
-```
 
-### Détails Supplémentaires - Innovation Technologique et Blockchain
+    %% Innovation Technologique
+    H --> H1[IoT & Smart Grids]
+    H --> H2[Blockchain]
 
-```mermaid
-graph TD
-    H[Innovation Technologique] --> H1[Blockchain]
-    H --> H2[Innovation & R&D]
+    %% IoT & Smart Grids
+    H1 --> H1a[IoT]
+    H1 --> H1b[Smart Grids]
+
+    %% IoT
+    H1a --> H1a1[Capteurs et Dispositifs]
+    H1a --> H1a2[Collecte et Analyse de Données]
+
+    %% Smart Grids
+    H1b --> H1b1[Gestion de l'Énergie]
+    H1b --> H1b2[Infrastructure de Réseau Intelligent]
+    H1b --> H1b3[Optimisation de la Distribution d'Énergie]
 
     %% Blockchain
-    H1 --> H1a[Technologies Blockchain]
-    H1 --> H1b[Applications Décentralisées]
-    H1 --> H1c[Smart Contracts]
+    H2 --> H2a[Technologies Blockchain]
+    H2 --> H2b[Applications Décentralisées]
+    H2 --> H2c[Smart Contracts]
 
     %% Technologies Blockchain
-    H1a --> H1a1[Consensus et Validation]
-    H1a --> H1a2[Sécurité et Cryptographie]
+    H2a --> H2a1[Consensus et Validation]
+    H2a --> H2a2[Sécurité et Cryptographie]
 
     %% Applications Décentralisées
-    H1b --> H1b1[Développement DApps]
-    H1b --> H1b2[Cas d'Utilisation]
+    H2b --> H2b1[Développement DApps]
+    H2b --> H2b2[Cas d'Utilisation]
 
     %% Smart Contracts
-    H1c --> H1c1[Développement de Smart Contracts]
-    H1c --> H1c2[Audit et Vérification]
-
-    %% Innovation & R&D
-    H2 --> H2a[Recherche Technologique]
-    H2 --> H2b[Développement de Nouveaux Produits]
+    H2c --> H2c1[Développement de Smart Contracts]
+    H2c --> H2c2[Audit et Vérification]
 ```
 
-Ces modifications permettent de mieux organiser les domaines en les regroupant et en les séparant selon leurs fonctions spécifiques, tout en ajoutant les éléments d'Intelligence Artificielle et Blockchain là où ils s'intègrent le mieux.
+Avec cette simplification :
+- **Cloud** est intégré comme un sous-composant de **Réseaux**.
+- **IoT** et **Smart Grids** sont regroupés sous **Innovation Technologique**.
+- **Blockchain** est également inclus sous **Innovation Technologique**.
+
+Cela permet de maintenir une structure claire tout en intégrant tous les aspects importants.
