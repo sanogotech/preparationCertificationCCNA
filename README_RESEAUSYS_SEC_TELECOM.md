@@ -2,6 +2,7 @@
 
 ---
 
+
 ### **Introduction** :  
 Ce cours a pour objectif de préparer les étudiants spécialisés en réseaux, systèmes, sécurité et télécoms à leur entrée dans la vie active en leur fournissant les compétences techniques, certifications, expériences, et projets clés nécessaires à leur réussite professionnelle. En mettant l'accent sur les compétences les plus recherchées par les entreprises, le cours combine apprentissage théorique, travaux pratiques et projets réels pour assurer une transition rapide vers l’emploi. Les étudiants seront également préparés à obtenir des certifications reconnues qui valoriseront leur profil sur le marché du travail.
 
