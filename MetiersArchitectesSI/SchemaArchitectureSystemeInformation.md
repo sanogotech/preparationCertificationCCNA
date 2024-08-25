@@ -48,7 +48,7 @@ graph TD
     A --> C[Sécurité]
     A --> D[Réseaux]
     A --> F[Données]
-    A --> G[Transformation Numérique]
+    A --> G[Gestion de Projets/Transformation Numérique]
     A --> H[Innovation Technologique]
     A --> I[Contrôle de Gestion et Budget]
 
