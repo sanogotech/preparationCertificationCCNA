@@ -6,8 +6,11 @@
 Ce cours a pour objectif de préparer les étudiants spécialisés en réseaux, systèmes, sécurité et télécoms à leur entrée dans la vie active en leur fournissant les compétences techniques, certifications, expériences, et projets clés nécessaires à leur réussite professionnelle. En mettant l'accent sur les compétences les plus recherchées par les entreprises, le cours combine apprentissage théorique, travaux pratiques et projets réels pour assurer une transition rapide vers l’emploi. Les étudiants seront également préparés à obtenir des certifications reconnues qui valoriseront leur profil sur le marché du travail.
 
 ---
+Voici une version mise à jour du **Top 30 des Compétences Clés**, en ajoutant des domaines comme GSM, réseaux satellite pour BLR et réseaux de télévision par satellite, ainsi que d’autres compétences pour étoffer la formation.
 
-### **Top 20 des Compétences Clés**
+---
+
+### **Top 30 des Compétences Clés**
 
 | **Compétence**                        | **Description**                                                                                         | **Travaux pratiques/Projets à réaliser**                                                        |
 |----------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -31,6 +34,20 @@ Ce cours a pour objectif de préparer les étudiants spécialisés en réseaux, 
 | **18. Gestion des identités et accès** | Mise en place de solutions IAM (Identity Access Management) pour gérer les accès utilisateurs              | Configuration d’un service IAM pour une entreprise                                              |
 | **19. Gestion de projets IT**          | Compétences en gestion de projet, planification et exécution de projets techniques                        | Réalisation d’un projet complet de refonte d’infrastructure réseau                              |
 | **20. Documentation technique et reporting**| Rédaction de documentations techniques et rapports d’activité pour les équipes de gestion                  | Création d’un document de spécifications pour un projet réseau                                  |
+| **21. Réseaux mobiles (GSM, 4G, 5G)**  | Connaissance des technologies GSM, LTE et 5G et leur architecture réseau                                 | Configuration et simulation d’un réseau 4G pour une entreprise télécom                          |
+| **22. Réseaux satellites pour BLR**    | Maîtrise des concepts de réseaux par satellite, principalement pour les connexions sans fil longue portée (BLR) | Conception et configuration d’un réseau satellite pour relier des zones rurales à l’internet    |
+| **23. Réseaux de télévision par satellite**| Compréhension des systèmes de diffusion par satellite pour les réseaux de télévision                      | Simulation d'un réseau de télévision par satellite avec gestion des bandes passantes            |
+| **24. IoT (Internet of Things)**       | Connaissance des architectures IoT, des protocoles (MQTT, CoAP) et de la sécurité IoT                     | Déploiement d'un réseau IoT avec surveillance et sécurité renforcée                             |
+| **25. Réseaux MPLS et VPN d’entreprise**| Gestion des réseaux MPLS pour les grandes entreprises et implémentation de VPN pour la connectivité sécurisée | Configuration d’un réseau MPLS avec VPN pour une entreprise multi-sites                        |
+| **26. Sécurité des infrastructures critiques**| Techniques de sécurisation des infrastructures critiques comme les réseaux d’électricité, eau, gaz        | Étude de cas sur la protection des infrastructures critiques contre les cyberattaques           |
+| **27. Planification et conception des réseaux télécoms**| Conception des réseaux télécoms, y compris les aspects de couverture, bande passante et qualité de service | Réalisation d’un plan de réseau télécom complet avec simulation de couverture                   |
+| **28. Technologies Fibre Optique**     | Installation et gestion des réseaux fibre optique, y compris FTTH (Fiber to the Home)                     | Mise en place d’un réseau FTTH pour un opérateur télécom                                        |
+| **29. Protocoles de routage avancés (BGP, OSPF)**| Connaissance des protocoles de routage avancés pour les réseaux d’entreprise et les fournisseurs d’accès   | Simulation d’un réseau multi-homing avec BGP et OSPF                                            |
+| **30. Sécurité des infrastructures Cloud**| Maîtrise des mécanismes de sécurité des infrastructures Cloud (chiffrement, segmentation, IAM)             | Déploiement d’une infrastructure Cloud avec des politiques de sécurité strictes                 |
+
+---
+
+Ces compétences couvrent les principaux domaines techniques dans les réseaux, télécoms, systèmes et sécurité, garantissant une formation polyvalente pour permettre aux étudiants de s'adapter à divers environnements professionnels.                            |
 
 ---
 
