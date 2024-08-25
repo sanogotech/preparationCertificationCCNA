@@ -11,22 +11,19 @@ Les objectifs principaux de cette gestion sont :
 
 Pour atteindre ces objectifs, il est important de suivre des stratégies et des bonnes pratiques spécifiques. Le présent document propose un aperçu détaillé des pratiques recommandées dans la gestion des applications et l'intégration des applications, avec un focus particulier sur les outils et les processus essentiels.
 
-## Schéma Global Simplifié
+### Introduction à l'Architecture des Systèmes d'Information
 
-```mermaid
-graph TD
-    A[Directeur des Systèmes d'Information] --> B[Architecture SI]
-    A --> C[Sécurité]
-    A --> D[Réseaux]
-    A --> F[Données]
-    A --> G[Gestion de Projets/Transformation Numérique]
-    A --> H[Innovation Technologique]
+Dans le domaine de l'architecture des systèmes d'information (SI), une gestion efficace des applications et leur intégration sont essentiels pour garantir une performance optimale et une cohérence globale. Les principaux défis incluent la capacité à maintenir une qualité de service élevée, à s'adapter rapidement aux évolutions des besoins métier, et à intégrer efficacement les différentes applications au sein du SI. Adopter des stratégies appropriées et suivre les bonnes pratiques est crucial pour atteindre ces objectifs.
 
-    G --> I[Contrôle de Gestion et Budget]
+Les objectifs principaux de cette gestion sont :
 
-```
+- **Optimiser les performances des applications** pour répondre aux besoins des utilisateurs.
+- **Assurer une intégration fluide** entre les différentes applications et services.
+- **Réduire les risques liés aux pannes et aux incidents** en mettant en place une surveillance proactive et des processus de support efficaces.
+- **Favoriser une gestion cohérente des API** pour garantir leur disponibilité et leur performance.
 
-------------------
+Pour atteindre ces objectifs, il est important de suivre des stratégies et des bonnes pratiques spécifiques. Ce document propose un aperçu détaillé des pratiques recommandées dans la gestion des applications et l'intégration des applications, avec un focus particulier sur les outils et les processus essentiels.
+
 ---
 
 ### Schéma Global Simplifié
@@ -38,10 +35,10 @@ graph TD
     A --> D[Réseaux]
     A --> F[Données]
     A --> G[Gestion des Projets/Agile at Scale/Transformation Numérique]
+    G --> I[Gestion de Projets/Agile at Scale]
+    G --> J[Contrôle de Gestion et Budget]
     A --> H[Innovation Technologique]
 ```
-
----
 
 ### Détails Supplémentaires
 
@@ -63,7 +60,7 @@ graph TD
 |-----------------------------|--------------------------------------------------------------------|------------------------------------|
 | **Développement Logiciel**  | Pratiques et outils pour concevoir, coder et tester des applications logicielles. | Méthodes Agile, Frameworks comme Spring, Outils de CI/CD |
 
-**3. Architecture Applicative/Intégration/Production**
+**3. Architecture Applicative / Intégration / Production**
 
 | **Aspect**                  | **Description**                                                    | **Exemples**                      |
 |-----------------------------|--------------------------------------------------------------------|----------------------------------|
@@ -72,7 +69,7 @@ graph TD
 | **Support**                 | Assistance aux utilisateurs et gestion des incidents.               | Outils de gestion des tickets comme Jira, ServiceDesk |
 | **Intégration d'Applications** | Connexion et orchestration des applications via API Manager/ESB. | API Management avec Apigee, ESB comme MuleSoft |
 
-**4. API Manager/ESB**
+**4. API Manager / ESB**
 
 | **Aspect**                  | **Description**                                                    | **Exemples**                     |
 |-----------------------------|--------------------------------------------------------------------|---------------------------------|
@@ -146,22 +143,16 @@ graph TD
 
 ---
 
-#### Gestion des Projets/Agile at Scale et Transformation Numérique
+#### Gestion des Projets / Agile at Scale / Transformation Numérique
 
-**1. Gestion des Projets/Agile at Scale**
+**1. Gestion de Projets / Agile at Scale**
 
 | **Aspect**                  | **Description**                                                    | **Exemples**                      |
 |-----------------------------|--------------------------------------------------------------------|----------------------------------|
 | **Gestion de Projet**       | Planification, exécution, et clôture des projets.                  | Méthodologie PRINCE2, PMBOK       |
 | **Agilité**                 | Approches flexibles pour répondre aux changements de projet.       | Scrum, Kanban                     |
 
-**2. Transformation Digitale**
-
-| **Aspect**                  | **Description**                                                    | **Exemples**                      |
-|-----------------------------|--------------------------------------------------------------------|----------------------------------|
-| **Transformation Digitale des Processus** | Révision et digitalisation des processus métier.               | Automatisation des processus, Développement d'applications numériques |
-
-**3. Contrôle de Gestion et Budget**
+**2. Contrôle de Gestion et Budget**
 
 | **Aspect**                  | **Description**                                                    | **Exemples**                      |
 |-----------------------------|--------------------------------------------------------------------|----------------------------------|
@@ -172,25 +163,16 @@ graph TD
 
 #### Innovation Technologique
 
-**1. IoT & Smart Grids**
+**1. Innovation Technologique**
 
 | **Aspect**                  | **Description**                                                    | **Exemples**                      |
 |-----------------------------|--------------------------------------------------------------------|----------------------------------|
-| **IoT**                     | Technologies liées à l'Internet des Objets.                        | Capteurs IoT, Systèmes connectés  |
-| **Smart Grids**             | Réseaux intelligents pour la gestion de l'énergie.                 | Réseaux électriques intelligents  |
-
-**2. Blockchain**
-
-| **Aspect**                  | **Description**                                                    | **Exemples**                      |
-|-----------------------------|--------------------------------------------------------------------|----------------------------------|
+| **IoT & Smart Grids**       | Technologies liées aux réseaux intelligents et à l'Internet des Objets. | Capteurs IoT, Réseaux intelligents |
 | **Blockchain**              | Technologies de registre distribué et contrats intelligents.       | Ethereum, Hyperledger             |
 
 ---
 
-Ce document fournit une vue d'ensemble complète et
-
- détaillée des pratiques recommandées et des outils essentiels pour la gestion et l'optimisation des systèmes d'information. Il est conçu pour guider les professionnels de l'IT dans la mise en œuvre de stratégies efficaces, en tenant compte des défis actuels et des innovations technologiques.
-
+Ce document fournit une vue d'ensemble détaillée de chaque axe de l'architecture des systèmes d'information, avec des descriptions, des exemples concrets, et des bonnes pratiques pour optimiser les processus et les outils associés.
 ---
 ------------------------------
 ---
