@@ -56,7 +56,7 @@ graph TD
 ```
 
 ------------------
-Voici le schéma mis à jour avec le bloc **Architecture Applicative** renommé en **Architecture Applicative/Intégration/Production** :
+
 
 ```mermaid
 graph TD
@@ -64,7 +64,7 @@ graph TD
     A --> C[Sécurité]
     A --> D[Réseaux]
     A --> F[Données]
-    A --> G[Gestion de Projets/Transformation Numérique]
+    A --> G[Gestion des Projets/Agile at Scale/Transformation Numérique]
     A --> H[Innovation Technologique]
 
     %% Architecture SI
@@ -86,8 +86,8 @@ graph TD
     F --> F2[Ingénierie des Données]
     F --> F3[Intelligence Artificielle]
 
-    %% Gestion de Projets/Transformation Numérique
-    G --> G1[Gestion des Projets]
+    %% Gestion des Projets/Agile at Scale/Transformation Numérique
+    G --> G1[Gestion des Projets/Agile at Scale]
     G --> G2[Transformation Digitale]
     G --> G3[Contrôle de Gestion et Budget]
 
@@ -119,8 +119,8 @@ graph TD
    - **Ingénierie des Données** : Conception et gestion des pipelines de données.
    - **Intelligence Artificielle** : Applications et technologies d'IA.
 
-6. **Gestion de Projets/Transformation Numérique** :
-   - **Gestion des Projets** : Gestion et planification des projets.
+6. **Gestion des Projets/Agile at Scale/Transformation Numérique** :
+   - **Gestion des Projets/Agile at Scale** : Gestion des projets avec des méthodes agiles à grande échelle.
    - **Transformation Digitale** : Processus de transformation numérique.
    - **Contrôle de Gestion et Budget** : Surveillance et gestion des budgets et contrôles.
 
@@ -128,7 +128,6 @@ graph TD
    - **IoT & Smart Grids** : Internet des objets et réseaux intelligents.
    - **Blockchain** : Technologies blockchain et applications décentralisées.
 
-Ce schéma met en évidence la hiérarchie et les sous-catégories de chaque domaine principal, avec le nouveau nom du bloc pour mieux refléter son contenu.
 
 ------------------------------
 ---
