@@ -16,7 +16,6 @@ graph TD
 
 ### Détails Supplémentaires - Architecture SI
 
-Voici un schéma détaillé de l'architecture des systèmes d'information, avec une structure améliorée pour la **Gestion des Applications**, qui est maintenant divisée en deux sous-ensembles principaux : **Exploitation et Supervision** et **Intégration d'Applications**. Ce schéma inclut également les éléments associés à l'intégration des applications et à la gestion des API.
 
 ```mermaid
 graph TD
