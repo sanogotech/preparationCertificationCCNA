@@ -91,14 +91,14 @@ Logiciel          |        |                |       |                |         |
 ```mermaid
 
 graph TD
-    A[Directeur des Systemes Information DSI] --> B[Architecture]
+    A[Directeur des Systèmes d'Information] --> B[Architecture]
     A --> C[Sécurité]
     A --> D[Réseaux]
     A --> E[Cloud]
     A --> F[Données]
     A --> G[Transformation Numérique]
 
-    B --> B1[SI ]
+    B --> B1[SI]
     B --> B2[Logiciel]
     B --> B3[Applications]
     
@@ -115,52 +115,29 @@ graph TD
     F --> F2[Data Engineering]
     
     G --> G1[Gestion des Projets]
+    G --> G2[Transformation]
+    G --> G3[Innovation Technologique]
     
-    % Architecture
     B1 --> B1a[Gestion]
     B2 --> B2a[Développement]
     B3 --> B3a[Gestion des Identités]
     
-    % Sécurité
     C1 --> C1a[Conformité]
     C2 --> C2a[Gestion des Risques]
     
-    % Réseaux
     D1 --> D1a[Gestion des Réseaux]
     
-    % Cloud
     E1 --> E1a[Sécurité]
     E2 --> E2a[Optimisation]
     
-    % Données
     F1 --> F1a[Big Data]
     F1 --> F1b[Analytics]
     F2 --> F2a[Data Engineering]
     
-    % Transformation Numérique
-    G1 --> G1a[Transformation]
-    G1 --> G1b[Innovation Technologique]
-    
-    % Applications
-    B3a --> B3a1[Conformité]
-    B3a --> B3a2[Gestion des Risques]
-    
-    % Sécurité SI
-    C3 --> C3a[Conformité]
-    C3 --> C3b[Gestion des Risques]
-    
-    % Cloud
-    E2 --> E2a[Sécurité]
-    E2 --> E2b[Optimisation]
-
-    % Données
-    F1 --> F1a[Big Data]
-    F1 --> F1b[Analytics]
-    F2 --> F2a[Data Engineering]
-
-    % Transformation Numérique
     G1 --> G1a[Gestion des Projets]
-    G1 --> G1b[Innovation Technologique]
+    G2 --> G2a[Transformation]
+    G3 --> G3a[Innovation Technologique]
+
 
 ```
 
