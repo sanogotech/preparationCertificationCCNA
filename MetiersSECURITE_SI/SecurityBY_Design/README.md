@@ -1,4 +1,4 @@
-### Conception de Systèmes Sécurisés
+# Conception de Systèmes Sécurisés / Security by Design
 
 #### Sommaire
 1. **Introduction**
@@ -22,6 +22,7 @@
 
 La conception de systèmes sécurisés est essentielle pour protéger les informations sensibles, garantir la stabilité des infrastructures et assurer la conformité aux réglementations. Une approche robuste de la sécurité inclut plusieurs couches de protection, allant de l'authentification des utilisateurs à la gestion des risques associés aux fournisseurs tiers. Ce guide fournit une vue d'ensemble des principaux aspects à considérer lors de la conception d'un système sécurisé, suivie d'un tableau récapitulatif des meilleures pratiques.
 
+![Security by Design](https://github.com/sanogotech/preparationMetiersDSI/blob/main/MetiersSECURITE_SI/images/DesignSecureSystem_SecurityByDesign.gif)
 ---
 
 ### 1. Authentification
