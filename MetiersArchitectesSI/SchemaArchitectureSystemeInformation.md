@@ -524,95 +524,91 @@ graph TD
     I --> I3[Automatisation Intelligente]
 ```
 
-### Détails Supplémentaires - Transformation Numérique et Innovation Technologique
+Voici les deux schémas Mermaid demandés, détaillant les sous-domaines de **Gestion des Projets/Agile at Scale/Transformation Digitale** et **Innovation Technologique** :
 
-
+### 1. Gestion des Projets/Agile at Scale/Transformation Digitale
 
 ```mermaid
 graph TD
-    G[Transformation Numérique] --> G1[Gestion des Projets]
-    G[Transformation Numérique] --> G2[Transformation Digitale]
-    G[Transformation Numérique] --> H[Innovation Technologique]
+    G[Gestion des Projets/Agile at Scale/Transformation Digitale]
 
-    %% Gestion des Projets
-    G1 --> G1a[Gestion des Projets Agile]
+    %% Gestion des Projets/Agile at Scale
+    G --> I[Gestion des Projets/Agile at Scale]
+    I --> I1[Application des Méthodologies Agiles à Grande Échelle]
+    I --> I2[Gestion de Portefeuille de Projets]
+    I --> I3[Adaptation aux Changements Rapides]
+
+    %% Contrôle de Gestion et Budget
+    G --> J[Contrôle de Gestion et Budget]
+    J --> J1[Surveillance des Performances Financières]
+    J --> J2[Optimisation Budgétaire]
+    J --> J3[Analyse des Coûts et Bénéfices]
 
     %% Transformation Digitale
-    G2 --> G2a[Transformation Digitale des Processus]
+    G --> K[Transformation Digitale]
+    K --> K1[Digitalisation des Processus Métiers]
+    K --> K2[Intégration de Nouvelles Technologies]
+    K --> K3[Amélioration de l'Efficacité Organisationnelle]
+```
 
-    %% Innovation Technologique
-    H --> H1[IoT & Smart Grids]
-    H --> H2[Blockchain]
+### Explication :
+- **Gestion des Projets/Agile at Scale** (I)
+  - **Application des Méthodologies Agiles à Grande Échelle** : Utilisation des méthodes agiles adaptées à des projets plus complexes et plus larges.
+  - **Gestion de Portefeuille de Projets** : Coordination et gestion de plusieurs projets pour maximiser les ressources et les résultats.
+  - **Adaptation aux Changements Rapides** : Capacité à ajuster les projets en fonction des nouvelles exigences et des évolutions du marché.
 
-    %% IoT & Smart Grids
-    H1 --> H1a[IoT]
-    H1 --> H1b[Smart Grids]
+- **Contrôle de Gestion et Budget** (J)
+  - **Surveillance des Performances Financières** : Suivi des indicateurs financiers pour assurer la rentabilité et la performance.
+  - **Optimisation Budgétaire** : Gestion des budgets pour réduire les coûts et améliorer l'utilisation des ressources.
+  - **Analyse des Coûts et Bénéfices** : Évaluation des dépenses par rapport aux bénéfices pour garantir une valeur ajoutée.
 
-    %% IoT
+- **Transformation Digitale** (K)
+  - **Digitalisation des Processus Métiers** : Passage des processus manuels aux solutions numériques pour améliorer l'efficacité.
+  - **Intégration de Nouvelles Technologies** : Adoption et mise en œuvre de technologies émergentes pour moderniser les opérations.
+  - **Amélioration de l'Efficacité Organisationnelle** : Optimisation des opérations pour accroître la productivité et la réactivité.
+
+### 2. Innovation Technologique
+
+```mermaid
+graph TD
+    H[Innovation Technologique]
+
+    %% Technologies Émergentes
+    H --> H1[Technologies Émergentes]
+    H1 --> H1a[Internet des Objets (IoT)]
+    H1 --> H1b[Blockchain]
+    H1 --> H1c[Autres Innovations Technologiques]
+
+    %% Internet des Objets (IoT)
     H1a --> H1a1[Capteurs et Dispositifs]
     H1a --> H1a2[Collecte et Analyse de Données]
 
-    %% Smart Grids
-    H1b --> H1b1[Gestion de l'Énergie]
-    H1b --> H1b2[Infrastructure de Réseau Intelligent]
-    H1b --> H1b3[Optimisation de la Distribution d'Énergie]
-
     %% Blockchain
-    H2 --> H2a[Technologies Blockchain]
-    H2 --> H2b[Applications Décentralisées]
-    H2 --> H2c[Smart Contracts]
+    H1b --> H1b1[Technologies Blockchain]
+    H1b --> H1b2[Applications Décentralisées]
+    H1b --> H1b3[Smart Contracts]
 
-    %% Technologies Blockchain
-    H2a --> H2a1[Consensus et Validation]
-    H2a --> H2a2[Sécurité et Cryptographie]
-
-    %% Applications Décentralisées
-    H2b --> H2b1[Développement DApps]
-    H2b --> H2b2[Cas d'Utilisation]
-
-    %% Smart Contracts
-    H2c --> H2c1[Développement de Smart Contracts]
-    H2c --> H2c2[Audit et Vérification]
+    %% Autres Innovations Technologiques
+    H1c --> H1c1[Technologies de l'IA]
+    H1c --> H1c2[Technologies de Réalité Virtuelle et Augmentée]
 ```
 
-### Explication Détail
+### Explication :
+- **Technologies Émergentes** (H1)
+  - **Internet des Objets (IoT)** (H1a)
+    - **Capteurs et Dispositifs** : Appareils collectant des données à partir du monde physique.
+    - **Collecte et Analyse de Données** : Traitement des données recueillies pour obtenir des insights et des analyses.
+  
+  - **Blockchain** (H1b)
+    - **Technologies Blockchain** : Systèmes de registre distribué pour assurer la sécurité et la transparence des transactions.
+    - **Applications Décentralisées** : Applications fonctionnant sur des réseaux blockchain pour éliminer les intermédiaires.
+    - **Smart Contracts** : Contrats auto-exécutables avec les termes directement inscrits dans le code.
 
-#### Transformation Numérique
-La Transformation Numérique englobe plusieurs aspects clés :
-1. **Gestion des Projets** : Englobe la gestion des projets en général avec un focus spécifique sur les approches agiles.
-2. **Transformation Digitale** : Concerne la digitalisation des processus métier pour améliorer l'efficacité et la performance.
-3. **Innovation Technologique** : Comprend des domaines avancés comme l'Internet des Objets (IoT), les Réseaux Intelligents (Smart Grids), et la Blockchain.
+  - **Autres Innovations Technologiques** (H1c)
+    - **Technologies de l'IA** : Utilisation de l'intelligence artificielle pour automatiser des tâches et améliorer les processus.
+    - **Technologies de Réalité Virtuelle et Augmentée** : Création d'environnements immersifs ou superposés pour améliorer l'interaction utilisateur et la formation.
 
-#### Gestion des Projets
-1. **Gestion des Projets Agile** : Met l'accent sur l'application des méthodologies agiles pour la gestion de projets.
-
-#### Transformation Digitale
-1. **Transformation Digitale des Processus** : Se concentre sur la modernisation et l'optimisation des processus métier à travers des solutions numériques.
-
-#### Innovation Technologique
-1. **IoT & Smart Grids** : Englobe les technologies liées à l'Internet des Objets et les réseaux intelligents.
-   - **IoT** :
-     - **Capteurs et Dispositifs** : Inclut les dispositifs physiques connectés pour la collecte de données.
-     - **Collecte et Analyse de Données** : Traitement et interprétation des données collectées par les capteurs.
-   - **Smart Grids** :
-     - **Gestion de l'Énergie** : Optimisation de la production et de la distribution d'énergie.
-     - **Infrastructure de Réseau Intelligent** : Technologies pour améliorer la gestion des réseaux électriques.
-     - **Optimisation de la Distribution d'Énergie** : Techniques pour améliorer l'efficacité de la distribution d'énergie.
-
-2. **Blockchain** :
-   - **Technologies Blockchain** :
-     - **Consensus et Validation** : Méthodes de validation des transactions sur une blockchain.
-     - **Sécurité et Cryptographie** : Protocoles de sécurité pour protéger les données sur la blockchain.
-   - **Applications Décentralisées** :
-     - **Développement DApps** : Création d'applications décentralisées sur des plateformes blockchain.
-     - **Cas d'Utilisation** : Exemples pratiques d'applications décentralisées.
-   - **Smart Contracts** :
-     - **Développement de Smart Contracts** : Création de contrats intelligents pour automatiser les transactions.
-     - **Audit et Vérification** : Processus pour vérifier la sécurité et la conformité des smart contracts.
-
-Ce schéma et ces explications offrent une vue d'ensemble structurée des domaines clés liés à la transformation numérique, à l'innovation technologique, et à la gestion des projets dans le contexte moderne des systèmes d'information.
-
-
+Ces schémas détaillent les différents aspects de la gestion des projets, du contrôle de gestion et de la transformation digitale, ainsi que l'innovation technologique, pour fournir une vue d'ensemble claire et organisée de chaque domaine.
 -----------------------------------------------
 ----------------------------------------------------------------------
 # Schéma d’Architecture du Système d’Information
