@@ -101,6 +101,68 @@ graph TD
 ### Conclusion :
 L'architecture et l'urbanisation du SI d'une banque permettent une **gestion modulaire**, **sécurisée**, et **scalable** des services. En adoptant des normes telles que **TOGAF** pour l'architecture et en utilisant des outils comme **Sparx** pour la modélisation, une banque peut moderniser progressivement son SI tout en maintenant l'intégration avec les systèmes legacy.
 
+### Détails des axes avec exemples pratiques
+#### 1. **Architecture et Urbanisation SI**
+- **Urbanisation SI** : Division du SI en zones fonctionnelles permet une flexibilité et une gestion optimale des différentes activités bancaires.  
+   - **Exemple** : Une zone dédiée aux **crédits** permet de gérer toutes les opérations de prêts sans impacter les zones de gestion des **comptes courants** ou des **paiements**.
+   
+- **Architecture Logicielle** : Utilisation des **microservices** pour découpler les fonctionnalités bancaires.
+   - **Exemple** : Le service de **gestion des prêts** fonctionne indépendamment du service de **gestion des paiements**, ce qui permet des déploiements plus rapides et des mises à jour spécifiques.
+
+- **Architecture Applicative** : Intégration des systèmes anciens avec des API modernes.
+   - **Exemple** : Un système de **legacy bancaire** est intégré avec des API REST, permettant aux **applications mobiles** d’accéder aux informations des comptes en temps réel.
+
+#### 2. **Sécurité**
+- **Sécurité SI** : Adoption des normes de sécurité informatique comme **ISO/IEC 27001**.
+   - **Exemple** : Utilisation de solutions comme les **firewalls**, **IDS/IPS** pour protéger les infrastructures bancaires.
+
+- **Conformité et Réglementation** : Respect des régulations bancaires internationales (ex. **RGPD**, **Bâle III**).
+   - **Exemple** : Les données clients sont cryptées et accessibles uniquement avec autorisation pour respecter la **confidentialité** des informations.
+
+- **Gestion des Identités (IAM)** : Gestion des accès aux systèmes critiques avec des outils d'authentification et d'autorisation.
+   - **Exemple** : Mise en place de **Keycloak** pour la gestion des authentifications des employés, assurant que seuls les utilisateurs autorisés peuvent accéder aux systèmes.
+
+#### 3. **Réseaux**
+- **Réseaux d'Entreprise** : Utilisation de technologies comme **MPLS** ou **VPN** pour connecter les agences bancaires avec le datacenter de manière sécurisée.
+   - **Exemple** : Un **VPN** est utilisé pour connecter une succursale bancaire à un centre de données sécurisé, permettant des **transactions** en toute sécurité.
+
+#### 4. **Cloud**
+- **Solutions Cloud** : Adoption des services cloud pour la flexibilité et l'évolutivité des services bancaires.
+   - **Exemple** : Déploiement de la plateforme de **banque en ligne** sur **Microsoft Azure** pour une gestion centralisée avec une disponibilité mondiale.
+
+- **Gestion des Risques Cloud** : Mise en place d'outils de sécurité pour surveiller les environnements cloud.
+   - **Exemple** : Utilisation de **Cloud Security Posture Management (CSPM)** pour suivre les vulnérabilités des configurations et gérer les **clés de chiffrement**.
+
+#### 5. **Données**
+- **Big Data & Analytics** : Exploitation des données clients pour améliorer les services bancaires et personnaliser les offres.
+   - **Exemple** : Utilisation de **Hadoop** pour analyser des millions de transactions et proposer des **offres de crédit** personnalisées aux clients en fonction de leurs comportements financiers.
+
+- **Ingénierie des Données** : Conception de pipelines de données pour assurer la collecte et le traitement en temps réel.
+   - **Exemple** : Utilisation de **Apache Kafka** pour gérer les flux de données entre les systèmes de gestion de comptes et les outils d’analyse en temps réel.
+
+#### 6. **Transformation Numérique**
+- **Gestion de Projets** : Application des méthodes **Agile** ou **Scrum** pour déployer progressivement les nouvelles fonctionnalités numériques.
+   - **Exemple** : La refonte du système de **gestion des comptes** est gérée par des **sprints** réguliers, chaque itération ajoutant une nouvelle fonctionnalité.
+
+- **Transformation Digitale** : Automatisation des processus manuels comme les demandes de prêt.
+   - **Exemple** : L’introduction d’une **application en ligne** pour la demande de crédit, permettant aux clients d’effectuer cette démarche sans se rendre en agence.
+
+- **Innovation Technologique** : Utilisation de technologies avancées comme l’**intelligence artificielle (IA)** pour la détection de fraudes.
+   - **Exemple** : L’**IA** est utilisée pour analyser les transactions suspectes et prévenir les fraudes financières en temps réel.
+
+### Tableau de synthèse des 6 axes
+
+| **Axe**                         | **Concepts Clés**                                   | **Exemples Pratiques** |
+|----------------------------------|-----------------------------------------------------|------------------------|
+| **Architecture et Urbanisation** | Urbanisation SI, Architecture Logicielle, Applicative | Séparation des zones (crédits, comptes), API REST pour mobiles |
+| **Sécurité**                     | Sécurité SI, Conformité, Gestion des Identités        | ISO/IEC 27001, RGPD, Keycloak pour IAM |
+| **Réseaux**                      | Réseaux d'Entreprise, VPN, MPLS                      | VPN pour sécuriser les connexions entre agences |
+| **Cloud**                        | Solutions Cloud, Gestion des Risques Cloud           | CSPM, Cloud public pour plateformes bancaires |
+| **Données**                      | Big Data & Analytics, Ingénierie des Données         | Hadoop pour l’analyse des transactions, Kafka pour pipelines de données |
+| **Transformation Numérique**     | Gestion de Projets Agile, Numérisation, Innovation   | Sprints pour la gestion des comptes, IA pour détection de fraudes |
+
+### Conclusion
+L'approche modulaire et urbanisée des systèmes d'information permet aux banques de s'adapter à un environnement en constante évolution, tout en assurant une conformité rigoureuse, une sécurité renforcée, et des innovations technologiques continues.
 ---
 
 ### 1. **Directeur des Systèmes d'Information (DSI)**
