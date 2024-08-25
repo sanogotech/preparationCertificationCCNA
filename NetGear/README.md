@@ -1,4 +1,4 @@
-### Solutions Netgear
+# Solutions Netgear
 
 **Netgear** est une entreprise bien connue pour ses solutions de réseau, en particulier ses routeurs, modems, et équipements pour réseaux Wi-Fi. Ses produits sont conçus pour répondre aux besoins des particuliers, des PME et des grandes entreprises en matière de connectivité. Voici une vue d'ensemble détaillée de certaines des solutions les plus courantes de Netgear :
 
