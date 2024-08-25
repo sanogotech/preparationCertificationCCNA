@@ -1,14 +1,20 @@
+Voici la version mise à jour avec les modifications demandées :
 
+- **Séparation des Réseaux et Cloud**
+- **Données** séparé avec l'ajout de l'Intelligence Artificielle
+- **Blockchain** regroupé sous **Innovation Technologique**
 
 ### Schéma Global
 
 ```mermaid
 graph TD
     A[Directeur des Systèmes d'Information] --> B[Architecture SI]
-    A --> C[Sécurité & Cloud]
-    A --> D[Réseaux & Données]
-    A --> G[Transformation Numérique & Intelligence Artificielle]
-    A --> J[Blockchain]
+    A --> C[Sécurité]
+    A --> D[Réseaux]
+    A --> E[Cloud]
+    A --> F[Données]
+    A --> G[Transformation Numérique]
+    A --> H[Innovation Technologique]
 ```
 
 ### Détails Supplémentaires - Architecture SI
@@ -49,14 +55,13 @@ graph TD
     I --> I2[Développement et Déploiement]
 ```
 
-### Détails Supplémentaires - Sécurité & Cloud
+### Détails Supplémentaires - Sécurité
 
 ```mermaid
 graph TD
-    C[Sécurité & Cloud] --> C1[Sécurité SI]
+    C[Sécurité] --> C1[Sécurité SI]
     C --> C2[Conformité et Réglementation]
     C --> C3[Gestion des Identités]
-    C --> E[Cloud]
 
     %% Sécurité SI
     C1 --> C1a[Conformité SI]
@@ -66,9 +71,23 @@ graph TD
 
     %% Gestion des Identités
     C3 --> C3a[Gestion des Identités et Accès]
+```
 
-    %% Cloud
-    E --> E1[Solutions Cloud]
+### Détails Supplémentaires - Réseaux
+
+```mermaid
+graph TD
+    D[Réseaux] --> D1[Réseaux d'Entreprise]
+
+    %% Réseaux d'Entreprise
+    D1 --> D1a[Infrastructure Réseaux]
+```
+
+### Détails Supplémentaires - Cloud
+
+```mermaid
+graph TD
+    E[Cloud] --> E1[Solutions Cloud]
     E --> E2[Gestion des Risques Cloud]
 
     %% Solutions Cloud
@@ -78,19 +97,13 @@ graph TD
     E2 --> E2a[Optimisation Cloud]
 ```
 
-### Détails Supplémentaires - Réseaux & Données
+### Détails Supplémentaires - Données et Intelligence Artificielle
 
 ```mermaid
 graph TD
-    D[Réseaux & Données] --> D1[Réseaux d'Entreprise]
-    D --> F[Données]
-
-    %% Réseaux d'Entreprise
-    D1 --> D1a[Infrastructure Réseaux]
-
-    %% Données
-    F --> F1[Big Data & Analytics]
+    F[Données] --> F1[Big Data & Analytics]
     F --> F2[Ingénierie des Données]
+    F --> I[Intelligence Artificielle]
 
     %% Big Data & Analytics
     F1 --> F1a[Big Data]
@@ -98,25 +111,6 @@ graph TD
 
     %% Ingénierie des Données
     F2 --> F2a[Data Engineering & Pipeline]
-```
-
-### Détails Supplémentaires - Transformation Numérique & Intelligence Artificielle
-
-```mermaid
-graph TD
-    G[Transformation Numérique & Intelligence Artificielle] --> G1[Gestion des Projets]
-    G --> G2[Transformation Digitale]
-    G --> G3[Innovation Technologique]
-    G --> I[Intelligence Artificielle]
-
-    %% Gestion des Projets
-    G1 --> G1a[Gestion des Projets Agile]
-
-    %% Transformation Digitale
-    G2 --> G2a[Transformation Digitale des Processus]
-
-    %% Innovation Technologique
-    G3 --> G3a[Innovation & R&D]
 
     %% Intelligence Artificielle
     I --> I1[Machine Learning]
@@ -136,25 +130,47 @@ graph TD
     I3 --> I3b[Agents Intelligents]
 ```
 
-### Détails Supplémentaires - Blockchain
+### Détails Supplémentaires - Transformation Numérique
 
 ```mermaid
 graph TD
-    J[Blockchain] --> J1[Technologies Blockchain]
-    J --> J2[Applications Décentralisées]
-    J --> J3[Smart Contracts]
+    G[Transformation Numérique] --> G1[Gestion des Projets]
+    G --> G2[Transformation Digitale]
 
-    %% Technologies Blockchain
-    J1 --> J1a[Consensus et Validation]
-    J1 --> J1b[Sécurité et Cryptographie]
+    %% Gestion des Projets
+    G1 --> G1a[Gestion des Projets Agile]
 
-    %% Applications Décentralisées
-    J2 --> J2a[Développement DApps]
-    J2 --> J2b[Cas d'Utilisation]
-
-    %% Smart Contracts
-    J3 --> J3a[Développement de Smart Contracts]
-    J3 --> J3b[Audit et Vérification]
+    %% Transformation Digitale
+    G2 --> G2a[Transformation Digitale des Processus]
 ```
 
-Ces modifications permettent une vue claire des sous-ensembles spécifiques dans chaque domaine tout en montrant leurs relations et interactions avec les autres parties du système.
+### Détails Supplémentaires - Innovation Technologique et Blockchain
+
+```mermaid
+graph TD
+    H[Innovation Technologique] --> H1[Blockchain]
+    H --> H2[Innovation & R&D]
+
+    %% Blockchain
+    H1 --> H1a[Technologies Blockchain]
+    H1 --> H1b[Applications Décentralisées]
+    H1 --> H1c[Smart Contracts]
+
+    %% Technologies Blockchain
+    H1a --> H1a1[Consensus et Validation]
+    H1a --> H1a2[Sécurité et Cryptographie]
+
+    %% Applications Décentralisées
+    H1b --> H1b1[Développement DApps]
+    H1b --> H1b2[Cas d'Utilisation]
+
+    %% Smart Contracts
+    H1c --> H1c1[Développement de Smart Contracts]
+    H1c --> H1c2[Audit et Vérification]
+
+    %% Innovation & R&D
+    H2 --> H2a[Recherche Technologique]
+    H2 --> H2b[Développement de Nouveaux Produits]
+```
+
+Ces modifications permettent de mieux organiser les domaines en les regroupant et en les séparant selon leurs fonctions spécifiques, tout en ajoutant les éléments d'Intelligence Artificielle et Blockchain là où ils s'intègrent le mieux.
