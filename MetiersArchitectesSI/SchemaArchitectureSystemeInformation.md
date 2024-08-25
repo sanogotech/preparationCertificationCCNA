@@ -56,9 +56,124 @@ graph TD
 ```
 
 ------------------
+```mermaid
+graph TD
+    A[Directeur des Systèmes d'Information] --> B[Architecture SI]
+    A --> C[Sécurité]
+    A --> D[Réseaux]
+    A --> F[Données]
+    A --> G[Gestion de Projets/Transformation Numérique]
+    A --> H[Innovation Technologique]
 
-Pour le diagramme de gestion de la direction des systèmes d'information (DSI), nous allons créer des tableaux détaillés pour chaque axe mentionné : Architecture SI, Sécurité, Réseaux, Données, Transformation Numérique, et Innovation Technologique. Chaque tableau inclura des exemples, des outils associés, des avantages, des inconvénients, et des bonnes pratiques.
+    %% Architecture SI
+    B --> B1[Urbanisation SI]
+    B --> B2[Architecture Logicielle]
+    B --> B3[Architecture Applicative]
+    
+    B1 --> B1a[Gestion Urbanisation SI]
+    B1 --> B1b[Zonage Fonctionnel]
+    B1 --> B1c[Évolution Modulaire du SI]
 
+    B2 --> B2a[Développement Logiciel]
+
+    B3 --> B3a[Gestion des Applications]
+    B3 --> B3b[Intégration d'Applications]
+    
+    B3a --> B3a1[Exploitation et Supervision]
+    B3a --> B3a2[Support]
+    
+    B3a1 --> B3a1a[Surveillance des Performances]
+    B3a1 --> B3a1b[Gestion des Pannes]
+    
+    B3a2 --> B3a2a[Assistance aux Utilisateurs]
+    B3a2 --> B3a2b[Gestion des Incidents]
+    
+    B3b --> H[API Manager/ESB]
+    H --> H1[Gestion des API]
+    H --> H2[Enterprise Service Bus]
+    
+    H1 --> H1a[Développement et Documentation API]
+    H1 --> H1b[Gestion du Cycle de Vie des API]
+    
+    H2 --> H2a[Architecture ESB]
+    H2 --> H2b[Intégration des Applications]
+    
+    %% Sécurité
+    C --> C1[Sécurité SI]
+    C --> C2[Conformité et Réglementation]
+    C --> C3[Gestion des Identités]
+    
+    C1 --> C1a[Conformité SI]
+    
+    C2 --> C2a[Gestion des Risques Sécurité]
+    
+    C3 --> C3a[Gestion des Identités et Accès]
+    
+    %% Réseaux
+    D --> D1[Réseaux d'Entreprise]
+    D --> E[Cloud]
+    
+    D1 --> D1a[Infrastructure Réseaux]
+    
+    E --> E1[Solutions Cloud]
+    E --> E2[Gestion des Risques Cloud]
+    
+    E1 --> E1a[Sécurité Cloud]
+    
+    E2 --> E2a[Optimisation Cloud]
+    
+    %% Données
+    F --> F1[Big Data & Analytics]
+    F --> F2[Ingénierie des Données]
+    F --> I[Intelligence Artificielle]
+    
+    F1 --> F1a[Big Data]
+    F1 --> F1b[Analytics Avancée]
+    
+    F2 --> F2a[Data Engineering & Pipeline]
+    
+    I --> I1[Machine Learning]
+    I --> I2[Analyse Prédictive]
+    I --> I3[Automatisation Intelligente]
+    
+    %% Gestion de Projets/Transformation Numérique
+    G --> G1[Gestion des Projets]
+    G --> G2[Transformation Digitale]
+    G --> I[Contrôle de Gestion et Budget]
+    
+    G1 --> G1a[Gestion des Projets Agile]
+    
+    G2 --> G2a[Transformation Digitale des Processus]
+    
+    %% Innovation Technologique
+    H --> H1[IoT & Smart Grids]
+    H --> H2[Blockchain]
+    
+    H1 --> H1a[IoT]
+    H1 --> H1b[Smart Grids]
+    
+    H1a --> H1a1[Capteurs et Dispositifs]
+    H1a --> H1a2[Collecte et Analyse de Données]
+    
+    H1b --> H1b1[Gestion de l'Énergie]
+    H1b --> H1b2[Infrastructure de Réseau Intelligent]
+    H1b --> H1b3[Optimisation de la Distribution d'Énergie]
+    
+    H2 --> H2a[Technologies Blockchain]
+    H2 --> H2b[Applications Décentralisées]
+    H2 --> H2c[Smart Contracts]
+    
+    H2a --> H2a1[Consensus et Validation]
+    H2a --> H2a2[Sécurité et Cryptographie]
+    
+    H2b --> H2b1[Développement DApps]
+    H2b --> H2b2[Cas d'Utilisation]
+    
+    H2c --> H2c1[Développement de Smart Contracts]
+    H2c --> H2c2[Audit et Vérification]
+```
+
+------------------------------
 ---
 
 ### 1. Architecture SI
