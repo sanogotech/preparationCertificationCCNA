@@ -162,7 +162,6 @@ graph TD
     G1 --> G1a[Gestion des Projets]
     G1 --> G1b[Innovation Technologique]
 
-
 ```
 
 **Schéma 3: Répartition par Équipe et Projet**
