@@ -119,7 +119,7 @@ graph TD
     
     % Architecture
     B1 --> B1a[Gestion]
-    B2 --> B2a[Développement]
+    B2 --> B2a[Developpement]
     B3 --> B3a[Gestion des Identités]
     
     % Sécurité
