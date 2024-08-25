@@ -70,7 +70,144 @@ graph TD
     B1 --> B1b[Zonage Fonctionnel]
     B1 --> B1c[Évolution Modulaire du SI]
 ```
+----
 
+Voici le schéma détaillé avec des sous-schémas pour chaque axe, découpé en plusieurs niveaux de détails :
+
+### Schéma Global
+
+```mermaid
+graph TD
+    A[Directeur des Systèmes d'Information] --> B[Architecture]
+    A --> C[Sécurité]
+    A --> D[Réseaux]
+    A --> E[Cloud]
+    A --> F[Données]
+    A --> G[Transformation Numérique]
+
+    %% Architecture
+    B --> B1[Urbanisation SI]
+    B --> B2[Architecture Logicielle]
+    B --> B3[Architecture Applicative]
+
+    %% Sécurité
+    C --> C1[Sécurité SI]
+    C --> C2[Conformité et Réglementation]
+    C --> C3[Gestion des Identités]
+
+    %% Réseaux
+    D --> D1[Réseaux d'Entreprise]
+
+    %% Cloud
+    E --> E1[Solutions Cloud]
+    E --> E2[Gestion des Risques Cloud]
+
+    %% Données
+    F --> F1[Big Data & Analytics]
+    F --> F2[Ingénierie des Données]
+
+    %% Transformation Numérique
+    G --> G1[Gestion des Projets]
+    G --> G2[Transformation Digitale]
+    G --> G3[Innovation Technologique]
+```
+
+### Détails Supplémentaires - Architecture
+
+```mermaid
+graph TD
+    B[Architecture] --> B1[Urbanisation SI]
+    B --> B2[Architecture Logicielle]
+    B --> B3[Architecture Applicative]
+
+    %% Urbanisation SI
+    B1 --> B1a[Gestion Urbanisation SI]
+    B1 --> B1b[Zonage Fonctionnel]
+    B1 --> B1c[Évolution Modulaire du SI]
+
+    %% Architecture Logicielle
+    B2 --> B2a[Développement Logiciel]
+
+    %% Architecture Applicative
+    B3 --> B3a[Gestion des Applications]
+```
+
+### Détails Supplémentaires - Sécurité
+
+```mermaid
+graph TD
+    C[Sécurité] --> C1[Sécurité SI]
+    C --> C2[Conformité et Réglementation]
+    C --> C3[Gestion des Identités]
+
+    %% Sécurité SI
+    C1 --> C1a[Conformité SI]
+
+    %% Conformité et Réglementation
+    C2 --> C2a[Gestion des Risques Sécurité]
+
+    %% Gestion des Identités
+    C3 --> C3a[Gestion des Identités et Accès]
+```
+
+### Détails Supplémentaires - Réseaux
+
+```mermaid
+graph TD
+    D[Réseaux] --> D1[Réseaux d'Entreprise]
+
+    %% Réseaux d'Entreprise
+    D1 --> D1a[Infrastructure Réseaux]
+```
+
+### Détails Supplémentaires - Cloud
+
+```mermaid
+graph TD
+    E[Cloud] --> E1[Solutions Cloud]
+    E --> E2[Gestion des Risques Cloud]
+
+    %% Solutions Cloud
+    E1 --> E1a[Sécurité Cloud]
+
+    %% Gestion des Risques Cloud
+    E2 --> E2a[Optimisation Cloud]
+```
+
+### Détails Supplémentaires - Données
+
+```mermaid
+graph TD
+    F[Données] --> F1[Big Data & Analytics]
+    F --> F2[Ingénierie des Données]
+
+    %% Big Data & Analytics
+    F1 --> F1a[Big Data]
+    F1 --> F1b[Analytics Avancée]
+
+    %% Ingénierie des Données
+    F2 --> F2a[Data Engineering & Pipeline]
+```
+
+### Détails Supplémentaires - Transformation Numérique
+
+```mermaid
+graph TD
+    G[Transformation Numérique] --> G1[Gestion des Projets]
+    G --> G2[Transformation Digitale]
+    G --> G3[Innovation Technologique]
+
+    %% Gestion des Projets
+    G1 --> G1a[Gestion des Projets Agile]
+
+    %% Transformation Digitale
+    G2 --> G2a[Transformation Digitale des Processus]
+
+    %% Innovation Technologique
+    G3 --> G3a[Innovation & R&D]
+```
+
+Ces schémas détaillent les différentes parties de l'architecture globale du SI bancaire, avec des sous-schémas qui approfondissent chaque axe en montrant les aspects spécifiques et les processus associés.
 
 ---
 
