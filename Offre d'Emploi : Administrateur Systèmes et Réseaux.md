@@ -132,3 +132,51 @@ Nous recherchons un(e) Administrateur(trice) Systèmes et Réseaux expérimenté
 - Vous rejoindrez une équipe dynamique travaillant sur des projets variés dans un environnement stimulant et en constante évolution.
 
 Ce format détaillé devrait aider à attirer des candidats qualifiés en précisant les compétences nécessaires et en offrant une vision complète des attentes pour le poste.
+
+
+### Formation et Expérience
+
+#### 1. **Diplôme en Informatique ou Génie Informatique :**
+Pour accéder au poste d’Administrateur Systèmes et Réseaux, il est recommandé de posséder un diplôme dans l'un des domaines suivants :
+   - **BTS Services Informatiques aux Organisations (SIO) :** Ce diplôme vous forme aux bases de l'administration réseau et systèmes, à la gestion des infrastructures IT, et aux services informatiques. Il est parfait pour développer vos compétences dans l'administration de serveurs et la sécurité.
+   - **Licence Professionnelle en Informatique :** Si vous envisagez d’aller plus loin après le BTS, une licence professionnelle vous permet de vous spécialiser davantage dans l’administration de réseaux, la virtualisation ou la sécurité des systèmes d’information.
+   - **Master en Génie Informatique ou Sécurité des Systèmes :** Ce diplôme est idéal si vous souhaitez accéder à des postes plus avancés, notamment en gestion de projets informatiques et en ingénierie des systèmes complexes.
+
+   **Conseils pour les Étudiants BTS :**
+   - Concentrez-vous sur les modules liés à la gestion des systèmes d’exploitation (Windows/Linux), les réseaux, la cybersécurité, et la virtualisation.
+   - Participez à des stages dans des entreprises où vous pourrez appliquer les concepts étudiés, car l'expérience pratique est essentielle pour ce poste.
+
+#### 2. **Expérience Professionnelle :**
+   Le nombre d’années d’expérience varie selon les entreprises, mais en général, un administrateur doit avoir **au moins 2 à 3 ans d’expérience**. Cependant, certains postes juniors sont ouverts aux jeunes diplômés avec des stages significatifs dans des environnements IT. 
+
+   **Comment acquérir de l’expérience pendant vos études :**
+   - **Stages :** Maximisez les opportunités de stages pendant votre BTS pour travailler sur des projets réels comme la mise en place de serveurs, la configuration de réseaux, ou l’installation de solutions de sécurité.
+   - **Projets scolaires :** Participez activement aux projets en groupe, notamment ceux qui impliquent la mise en place de réseaux ou la gestion de systèmes d’exploitation.
+   - **Travaux Pratiques :** Profitez des laboratoires informatiques à l’école pour expérimenter des configurations réseau, la virtualisation, ou même la mise en place d’environnements sécurisés.
+
+### Contexte de Travail
+
+#### 1. **Équipe Dynamique et Environnement en Constante Évolution :**
+En tant qu'administrateur systèmes et réseaux, vous travaillerez au sein d’une équipe IT composée d'autres administrateurs, ingénieurs en sécurité, développeurs, et analystes. Le travail en équipe est crucial car les projets impliquent souvent plusieurs compétences :
+   - **Projets Variés :** Vous pourriez être amené(e) à travailler sur des projets différents, tels que la mise en place de nouveaux serveurs, la gestion de la sécurité des réseaux, ou encore la migration vers des solutions cloud.
+   - **Collaboration :** Attendez-vous à collaborer avec différents départements, notamment les équipes de développement, qui dépendent de la stabilité et de la sécurité des systèmes que vous gérez.
+   
+   **Conseils pour bien s’intégrer :**
+   - Développez des compétences en communication pour échanger efficacement avec les collègues non techniques.
+   - Soyez curieux(se) et adaptable, car les technologies évoluent rapidement dans ce domaine. Par exemple, la montée en puissance du **Cloud** ou des **technologies de conteneurisation** (Docker, Kubernetes) signifie que vous devrez régulièrement vous former sur les nouvelles tendances.
+
+#### 2. **Environnement Stimulant et Projets Innovants :**
+Le travail en tant qu’administrateur implique une variété de tâches quotidiennes et de responsabilités stimulantes. Vous serez confronté(e) à des défis quotidiens comme :
+   - **Gestion des Incidents :** Résoudre des incidents liés aux systèmes et réseaux qui peuvent perturber le bon fonctionnement des services.
+   - **Mise à Niveau des Technologies :** Être responsable de la veille technologique et proposer des solutions innovantes pour améliorer les performances et la sécurité du système.
+   - **Sécurité :** Protéger l’entreprise contre des cyberattaques tout en assurant la continuité des services.
+   - **Gestion du Temps et des Priorités :** Travailler dans un environnement multitâche où il est essentiel de prioriser les tâches critiques.
+
+   **Conseils pour s’épanouir dans cet environnement :**
+   - Travaillez sur vos compétences de **résolution de problèmes** : en tant qu’administrateur, vous devrez identifier rapidement les causes des dysfonctionnements et y apporter des solutions efficaces.
+   - **Restez à jour avec les technologies émergentes** : Inscrivez-vous à des cours en ligne ou des certifications (comme celles de Cisco ou Microsoft) pour rester compétitif(ve) dans un domaine qui évolue constamment.
+   - Prenez le temps de **comprendre les besoins de l’entreprise** et comment vos actions peuvent améliorer la productivité et la sécurité globale.
+
+---
+
+En tant qu’étudiant en BTS, vous avez donc un chemin tracé pour vous développer dans cette carrière avec une solide formation, une première expérience professionnelle via des stages, et un environnement de travail motivant qui vous poussera à rester à la pointe des innovations technologiques.
