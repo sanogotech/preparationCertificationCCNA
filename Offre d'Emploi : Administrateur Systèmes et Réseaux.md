@@ -121,4 +121,14 @@ Nous recherchons un(e) Administrateur(trice) Systèmes et Réseaux expérimenté
 
 ---
 
-Ce format offre une vision encore plus détaillée des outils et compétences attendus, en distinguant clairement les solutions open-source et payantes pour chaque domaine d'expertise.
+
+### Formation et Expérience :
+
+- Diplôme en informatique, génie informatique ou expérience équivalente.
+- X années d'expérience dans l'administration de systèmes et de réseaux.
+
+### Contexte de Travail :
+
+- Vous rejoindrez une équipe dynamique travaillant sur des projets variés dans un environnement stimulant et en constante évolution.
+
+Ce format détaillé devrait aider à attirer des candidats qualifiés en précisant les compétences nécessaires et en offrant une vision complète des attentes pour le poste.
