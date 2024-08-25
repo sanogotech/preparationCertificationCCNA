@@ -56,38 +56,6 @@ graph TD
 
     %% Innovation Technologique
     A --> H[Innovation Technologique]
-    H --> H1[IoT & Smart Grids]
-    H --> H2[Blockchain]
-
-    %% IoT & Smart Grids
-    H1 --> H1a[IoT]
-    H1 --> H1b[Smart Grids]
-
-    %% IoT
-    H1a --> H1a1[Capteurs et Dispositifs]
-    H1a --> H1a2[Collecte et Analyse de Données]
-
-    %% Smart Grids
-    H1b --> H1b1[Gestion de l'Énergie]
-    H1b --> H1b2[Infrastructure de Réseau Intelligent]
-    H1b --> H1b3[Optimisation de la Distribution d'Énergie]
-
-    %% Blockchain
-    H2 --> H2a[Technologies Blockchain]
-    H2 --> H2b[Applications Décentralisées]
-    H2 --> H2c[Smart Contracts]
-
-    %% Technologies Blockchain
-    H2a --> H2a1[Consensus et Validation]
-    H2a --> H2a2[Sécurité et Cryptographie]
-
-    %% Applications Décentralisées
-    H2b --> H2b1[Développement DApps]
-    H2b --> H2b2[Cas d'Utilisation]
-
-    %% Smart Contracts
-    H2c --> H2c1[Développement de Smart Contracts]
-    H2c --> H2c2[Audit et Vérification]
 ```
 
 ### Détails Supplémentaires
