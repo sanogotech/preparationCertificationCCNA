@@ -88,6 +88,7 @@ Logiciel          |        |                |       |                |         |
 **Autres**:
 
 ```mermaid
+
 graph TD
     A[Directeur des Systèmes d'Information] --> B[Architecture]
     A --> C[Sécurité]
@@ -102,7 +103,7 @@ graph TD
     
     C --> C1[Sécurité SI]
     C --> C2[Conformité]
-    C --> C3[Gestion des Identités]
+    C --> C3[Identités]
     
     D --> D1[Réseaux d'Entreprise]
     
@@ -110,37 +111,32 @@ graph TD
     E --> E2[Gestion des Risques]
     
     F --> F1[Big Data & Analytics]
-    F --> F2[Data Engineering]
+    F --> F2[Ingénierie des Données]
     
-    G --> G1[Gestion des Projets]
+    G --> G1[Projets]
     G --> G2[Transformation]
-    G --> G3[Innovation Technologique]
+    G --> G3[Innovation]
 
+    %% Détails supplémentaires
+    B1 --> B1a[Gestion SI]
+    B2 --> B2a[Développement Logiciel]
+    B3 --> B3a[Gestion des Applications]
 
-    B1 --> B1a[Gestion]
-    B2 --> B2a[Développement]
-    B3 --> B3a[Gestion des Identités]
-
-
-    C1 --> C1a[Conformité]
-    C2 --> C2a[Gestion des Risques]
+    C1 --> C1a[Conformité SI]
+    C2 --> C2a[Gestion des Risques SI]
     C3 --> C3a[Gestion des Identités]
-    
- 
-    D1 --> D1a[Gestion des Réseaux]
-    
-   
-    E1 --> E1a[Sécurité]
-    E2 --> E2a[Optimisation]
-    
- 
+
+    D1 --> D1a[Gestion Réseaux]
+
+    E1 --> E1a[Sécurité Cloud]
+    E2 --> E2a[Optimisation Cloud]
+
     F1 --> F1a[Big Data]
     F1 --> F1b[Analytics]
     F2 --> F2a[Data Engineering]
-    
-  
-    G1 --> G1a[Gestion des Projets]
-    G2 --> G2a[Transformation]
+
+    G1 --> G1a[Gestion Projets]
+    G2 --> G2a[Transformation Numérique]
     G3 --> G3a[Innovation Technologique]
 
 
