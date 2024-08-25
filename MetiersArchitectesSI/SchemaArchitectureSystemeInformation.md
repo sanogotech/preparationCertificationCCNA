@@ -28,28 +28,20 @@ Pour atteindre ces objectifs, il est important de suivre des stratégies et des 
 
 ### Schéma Global Simplifié
 
-```mermaid
-graph TD
-    A[Directeur des Systèmes d'Information] --> B[Architecture SI]
-    A --> C[Sécurité]
-    A --> D[Réseaux]
-    A --> F[Données]
-    A --> G[Gestion des Projets/Agile at Scale/Transformation Numérique]
-    G --> I[Gestion de Projets/Agile at Scale]
-    G --> J[Contrôle de Gestion et Budget]
-    A --> H[Innovation Technologique]
-```
-
 ------------------
+Le schéma Mermaid représente l'organisation des responsabilités du Directeur des Systèmes d'Information (DSI) dans une entreprise. Voici une explication détaillée des différents éléments du schéma :
+
+### Schéma Global Simplifié
+
 ```mermaid
 graph TD
     A[Directeur des Systèmes d'Information] --> B[Architecture SI]
     A --> C[Sécurité]
     A --> D[Réseaux]
     A --> F[Données]
-    A --> G[Gestion des Projets/Agile at Scale/Transformation Numérique]
+    A --> G[Gestion des Projets/Agile at Scale/Transformation Digitale]
     
-    %% Gestion des Projets/Agile at Scale/Transformation Numérique
+    %% Gestion des Projets/Agile at Scale/Transformation Digitale
     G --> I[Gestion des Projets/Agile at Scale]
     G --> J[Contrôle de Gestion et Budget]
     G --> K[Transformation Digitale]
@@ -57,6 +49,35 @@ graph TD
     %% Innovation Technologique
     A --> H[Innovation Technologique]
 ```
+
+### Explication
+
+1. **Directeur des Systèmes d'Information (A)**
+   - Le Directeur des Systèmes d'Information est le responsable global de la gestion et de la stratégie des systèmes d'information au sein de l'organisation. Il supervise l'ensemble des domaines liés à l'architecture SI, la sécurité, les réseaux, les données, ainsi que la gestion des projets, et l'innovation technologique.
+
+2. **Architecture SI (B)**
+   - Ce domaine concerne la conception et l'organisation des systèmes d'information. Il englobe la structuration des différents composants du SI pour assurer leur intégration et leur performance optimale.
+
+3. **Sécurité (C)**
+   - Responsable de la protection des systèmes d'information contre les menaces et les risques. Cela inclut la mise en place de politiques de sécurité, la gestion des accès, et la conformité aux normes de sécurité.
+
+4. **Réseaux (D)**
+   - Gestion de l'infrastructure réseau de l'entreprise. Cela inclut la conception, la maintenance et la gestion des réseaux locaux (LAN), étendus (WAN) et des connexions internet.
+
+5. **Données (F)**
+   - Gestion des données de l'entreprise, y compris leur stockage, leur traitement, leur analyse, et leur sécurité. Ce domaine peut inclure des aspects comme le Big Data et la gestion des bases de données.
+
+6. **Gestion des Projets/Agile at Scale/Transformation Digitale (G)**
+   - **Gestion des Projets/Agile at Scale (I)** : Application des méthodologies agiles à une échelle plus large pour une gestion de projets plus flexible et réactive.
+   - **Contrôle de Gestion et Budget (J)** : Surveillance et optimisation des performances financières et budgétaires pour les projets et opérations.
+   - **Transformation Digitale (K)** : Digitalisation des processus métier pour améliorer l'efficacité et l'agilité de l'organisation, souvent en intégrant de nouvelles technologies et méthodes.
+
+7. **Innovation Technologique (H)**
+   - Ce domaine couvre la recherche et l'intégration de nouvelles technologies pour améliorer les opérations de l'entreprise et rester à la pointe de l'innovation. Cela peut inclure des technologies émergentes comme l'Internet des Objets (IoT), la Blockchain, et d'autres innovations technologiques.
+
+### Résumé
+
+Le schéma montre comment le Directeur des Systèmes d'Information supervise plusieurs domaines clés de l'organisation. Chaque domaine a ses propres responsabilités spécifiques, allant de l'architecture des systèmes à la sécurité, aux réseaux, aux données, ainsi qu'à la gestion des projets, le contrôle de gestion et la transformation numérique. L'innovation technologique est également un domaine clé, séparé mais intégré dans la vision globale du DSI pour guider l'évolution technologique de l'entreprise.
 
 ### Détails Supplémentaires
 
