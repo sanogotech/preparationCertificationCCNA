@@ -89,7 +89,6 @@ Logiciel          |        |                |       |                |         |
 **Autres**:
 
 ```mermaid
-
 graph TD
     A[Directeur des Systèmes d'Information] --> B[Architecture]
     A --> C[Sécurité]
