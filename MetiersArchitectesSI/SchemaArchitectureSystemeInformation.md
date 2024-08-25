@@ -21,7 +21,7 @@ Pour le diagramme de gestion de la direction des systèmes d'information (DSI), 
 
 ---
 
-#### 1. Urbanisation SI
+#### 1.1 Urbanisation SI
 
 | **Aspect**                | **Exemples**                               | **Outils**                           | **Avantages**                                | **Inconvénients**                           | **Bonnes Pratiques**                                    |
 |---------------------------|--------------------------------------------|-------------------------------------|---------------------------------------------|--------------------------------------------|---------------------------------------------------------|
@@ -29,7 +29,7 @@ Pour le diagramme de gestion de la direction des systèmes d'information (DSI), 
 | **Conception de l'Urbanisation** | Définition des processus métiers et systèmes | TOGAF, Zachman Framework            | Assure une cohérence dans l'alignement des processus et des systèmes | Peut nécessiter des ajustements fréquents en fonction des évolutions | Adopter une approche modulaire, réévaluer régulièrement les besoins métiers |
 | **Gouvernance et Management** | Gestion des changements dans l'urbanisation | ITIL, COBIT                         | Permet une meilleure gestion et gouvernance des systèmes d'information | Peut engendrer une lourdeur administrative | Mettre en place des processus de gestion du changement, documenter les modifications |
 
-### 2. Architecture Logicielle
+### 1.2. Architecture Logicielle
 
 | **Aspect**                | **Exemples**                               | **Outils**                           | **Avantages**                                | **Inconvénients**                           | **Bonnes Pratiques**                                    |
 |---------------------------|--------------------------------------------|-------------------------------------|---------------------------------------------|--------------------------------------------|---------------------------------------------------------|
@@ -37,7 +37,7 @@ Pour le diagramme de gestion de la direction des systèmes d'information (DSI), 
 | **Évaluation et Optimisation** | Analyse des performances et de la scalabilité | JProfiler, YourKit                   | Permet d'optimiser les performances des systèmes | Peut nécessiter des ajustements fréquents en fonction des charges | Effectuer des revues régulières, intégrer les feedbacks des utilisateurs |
 | **Intégration et Interopérabilité** | Gestion des interfaces entre modules logiciels | API Management Tools, Swagger        | Assure la compatibilité entre différentes parties du système | Peut nécessiter des efforts de coordination importants | Définir des standards d'intégration clairs, tester les interfaces de manière exhaustive |
 
-### 3. Architecture Applicative
+### 1.3. Architecture Applicative
 
 | **Aspect**                | **Exemples**                               | **Outils**                           | **Avantages**                                | **Inconvénients**                           | **Bonnes Pratiques**                                    |
 |---------------------------|--------------------------------------------|-------------------------------------|---------------------------------------------|--------------------------------------------|---------------------------------------------------------|
