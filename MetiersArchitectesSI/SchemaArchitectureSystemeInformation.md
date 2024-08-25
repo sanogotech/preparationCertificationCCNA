@@ -56,6 +56,8 @@ graph TD
 ```
 
 ------------------
+Voici le schéma mis à jour avec le bloc **Architecture Applicative** renommé en **Architecture Applicative/Intégration/Production** :
+
 ```mermaid
 graph TD
     A[Directeur des Systèmes d'Information] --> B[Architecture SI]
@@ -68,7 +70,7 @@ graph TD
     %% Architecture SI
     B --> B1[Urbanisation SI]
     B --> B2[Architecture Logicielle]
-    B --> B3[Architecture Applicative]
+    B --> B3[Architecture Applicative/Intégration/Production]
 
     %% Sécurité
     C --> C1[Sécurité SI]
@@ -82,6 +84,7 @@ graph TD
     %% Données
     F --> F1[Big Data & Analytics]
     F --> F2[Ingénierie des Données]
+    F --> F3[Intelligence Artificielle]
 
     %% Gestion de Projets/Transformation Numérique
     G --> G1[Gestion des Projets]
@@ -91,8 +94,41 @@ graph TD
     %% Innovation Technologique
     H --> H1[IoT & Smart Grids]
     H --> H2[Blockchain]
-
 ```
+
+### Explication du Schéma Mis à Jour
+
+1. **Directeur des Systèmes d'Information** : Supervise tous les aspects de l'architecture des systèmes d'information.
+   
+2. **Architecture SI** :
+   - **Urbanisation SI** : Gestion et planification de l'urbanisation du SI.
+   - **Architecture Logicielle** : Conception des logiciels.
+   - **Architecture Applicative/Intégration/Production** : Gestion des applications, leur intégration et leur mise en production.
+
+3. **Sécurité** :
+   - **Sécurité SI** : Protection générale des systèmes d'information.
+   - **Conformité et Réglementation** : Conformité aux régulations et normes.
+   - **Gestion des Identités** : Gestion des accès et identités.
+
+4. **Réseaux** :
+   - **Réseaux d'Entreprise** : Infrastructure et gestion des réseaux internes.
+   - **Cloud** : Solutions et gestion des services cloud.
+
+5. **Données** :
+   - **Big Data & Analytics** : Gestion des grandes données et analyses.
+   - **Ingénierie des Données** : Conception et gestion des pipelines de données.
+   - **Intelligence Artificielle** : Applications et technologies d'IA.
+
+6. **Gestion de Projets/Transformation Numérique** :
+   - **Gestion des Projets** : Gestion et planification des projets.
+   - **Transformation Digitale** : Processus de transformation numérique.
+   - **Contrôle de Gestion et Budget** : Surveillance et gestion des budgets et contrôles.
+
+7. **Innovation Technologique** :
+   - **IoT & Smart Grids** : Internet des objets et réseaux intelligents.
+   - **Blockchain** : Technologies blockchain et applications décentralisées.
+
+Ce schéma met en évidence la hiérarchie et les sous-catégories de chaque domaine principal, avec le nouveau nom du bloc pour mieux refléter son contenu.
 
 ------------------------------
 ---
