@@ -1,5 +1,6 @@
+Pour simplifier le schéma en regroupant les sous-domaines sous **Architecture SI** tout en intégrant les éléments connexes (API Manager/ESB et Gestion des Applications) comme des sous-éléments, voici la version mise à jour :
 
-### Schéma Global Mis à Jour
+### Schéma Global Simplifié
 
 ```mermaid
 graph TD
@@ -18,8 +19,6 @@ graph TD
     B[Architecture SI] --> B1[Urbanisation SI]
     B --> B2[Architecture Logicielle]
     B --> B3[Architecture Applicative]
-    B --> H[API Manager/ESB]
-    B --> I[Gestion des Applications]
 
     %% Urbanisation SI
     B1 --> B1a[Gestion Urbanisation SI]
@@ -33,6 +32,7 @@ graph TD
     B3 --> B3a[Gestion des Applications]
 
     %% API Manager/ESB
+    B --> H[API Manager/ESB]
     H --> H1[Gestion des API]
     H --> H2[Enterprise Service Bus]
 
@@ -43,8 +43,9 @@ graph TD
     %% Enterprise Service Bus
     H2 --> H2a[Architecture ESB]
     H2 --> H2b[Intégration des Applications]
-
+    
     %% Gestion des Applications
+    B --> I[Gestion des Applications]
     I --> I1[Gestion des Applications]
     I --> I2[Développement et Déploiement]
 ```
@@ -107,18 +108,6 @@ graph TD
     I --> I1[Machine Learning]
     I --> I2[Analyse Prédictive]
     I --> I3[Automatisation Intelligente]
-
-    %% Machine Learning
-    I1 --> I1a[Apprentissage Supervisé]
-    I1 --> I1b[Apprentissage Non Supervisé]
-
-    %% Analyse Prédictive
-    I2 --> I2a[Modélisation Prédictive]
-    I2 --> I2b[Analyse des Tendances]
-
-    %% Automatisation Intelligente
-    I3 --> I3a[Automatisation des Processus]
-    I3 --> I3b[Agents Intelligents]
 ```
 
 ### Détails Supplémentaires - Transformation Numérique et Innovation Technologique
@@ -170,9 +159,4 @@ graph TD
     H2c --> H2c2[Audit et Vérification]
 ```
 
-Avec cette simplification :
-- **Cloud** est intégré comme un sous-composant de **Réseaux**.
-- **IoT** et **Smart Grids** sont regroupés sous **Innovation Technologique**.
-- **Blockchain** est également inclus sous **Innovation Technologique**.
-
-Cela permet de maintenir une structure claire tout en intégrant tous les aspects importants.
+Ce schéma simplifié regroupe les éléments principaux sous **Architecture SI**, tout en conservant les sous-éléments comme **API Manager/ESB** et **Gestion des Applications**. Les autres domaines sont structurés pour refléter leur relation avec l'architecture et les spécificités fonctionnelles.
