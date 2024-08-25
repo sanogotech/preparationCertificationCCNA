@@ -40,6 +40,8 @@ graph TD
     A --> H[Innovation Technologique]
 ```
 
+------------------
+```mermaid
 graph TD
     A[Directeur des Systèmes d'Information] --> B[Architecture SI]
     A --> C[Sécurité]
@@ -86,7 +88,7 @@ graph TD
     %% Smart Contracts
     H2c --> H2c1[Développement de Smart Contracts]
     H2c --> H2c2[Audit et Vérification]
-
+```
 
 ### Détails Supplémentaires
 
