@@ -40,6 +40,54 @@ graph TD
     A --> H[Innovation Technologique]
 ```
 
+graph TD
+    A[Directeur des Systèmes d'Information] --> B[Architecture SI]
+    A --> C[Sécurité]
+    A --> D[Réseaux]
+    A --> F[Données]
+    A --> G[Gestion des Projets/Agile at Scale/Transformation Numérique]
+    
+    %% Gestion des Projets/Agile at Scale/Transformation Numérique
+    G --> I[Gestion des Projets/Agile at Scale]
+    G --> J[Contrôle de Gestion et Budget]
+    G --> K[Transformation Digitale]
+
+    %% Innovation Technologique
+    A --> H[Innovation Technologique]
+    H --> H1[IoT & Smart Grids]
+    H --> H2[Blockchain]
+
+    %% IoT & Smart Grids
+    H1 --> H1a[IoT]
+    H1 --> H1b[Smart Grids]
+
+    %% IoT
+    H1a --> H1a1[Capteurs et Dispositifs]
+    H1a --> H1a2[Collecte et Analyse de Données]
+
+    %% Smart Grids
+    H1b --> H1b1[Gestion de l'Énergie]
+    H1b --> H1b2[Infrastructure de Réseau Intelligent]
+    H1b --> H1b3[Optimisation de la Distribution d'Énergie]
+
+    %% Blockchain
+    H2 --> H2a[Technologies Blockchain]
+    H2 --> H2b[Applications Décentralisées]
+    H2 --> H2c[Smart Contracts]
+
+    %% Technologies Blockchain
+    H2a --> H2a1[Consensus et Validation]
+    H2a --> H2a2[Sécurité et Cryptographie]
+
+    %% Applications Décentralisées
+    H2b --> H2b1[Développement DApps]
+    H2b --> H2b2[Cas d'Utilisation]
+
+    %% Smart Contracts
+    H2c --> H2c1[Développement de Smart Contracts]
+    H2c --> H2c2[Audit et Vérification]
+
+
 ### Détails Supplémentaires
 
 ---
