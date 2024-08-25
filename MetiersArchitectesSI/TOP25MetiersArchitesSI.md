@@ -67,27 +67,29 @@ de Données            |     des Réseaux  des Coûts    des Données   des Syst
 ----------------------------------------------------------------------
 |                |                  |                 |                  |                  |
 Architecture    Sécurité           Réseaux           Cloud             Données         Transformation Numérique
-    |                |                  |                  |                  |                   |
-    |                |                  |                  |                  |                   |
+    |                |                  |                  |                  |                       |
+    |                |                  |                  |                  |                       |
 ----------------     ----------------   ----------------   ----------------  ----------------  ----------------
-|              |     |                |   |              |  |              |   |              |
+|              |     |                |   |              |  |              |   |                       |
 SI           Logiciel   Sécurité SI     Réseaux d'Entreprise  Solutions Cloud  Big Data & Analytics  Transformation
- |              |        |                |       |                |        |               |           |
- |              |        |                |       |                |        |               |           |
+ |              |        |                |       |                |        |               |           
+ |              |        |                |       |                |        |               |           
 Applications   Développement  Conformité   Gestion   Optimisation   Data Engineering  Gestion des Projets
-  |               |        |                |       |                |         |               |           |
-  |               |        |                |       |                |         |               |           |
-Gestion       Sécurité     Gestion       Services  Sécurité      Big Data     IoT            DevOps
-des           Cloud       des           Cloud    des          & Analytics    |              |
-Identités                 Identités     Applications Applications               |              |
-                      |                            |         |              |              |
-                  Conformité                    Gestion de   Développement   Gestion des   Intégration
+  |               |        |                |       |                |         |               |           
+  |               |        |                |       |                |         |               |           
+Logiciel          |        |                |       |                |         |
+            Sécurité     Gestion       Services  Sécurité        Big Data     IoT            DevOps
+              Cloud       des           Cloud    des          & Analytics      |               |
+                        Identités     Applications Applications                 |              |
+                          |                            |         |              |              |
+                    Conformité                    Gestion de   Développement   Gestion des   Intégration
                                                Risques       des Données     IoT         et Automatisation
 ```
 
 **Autres**:
 
 ```mermaid
+
 graph TD
     A[Directeur des Systèmes d'Information (DSI)] --> B[Architecture]
     A --> C[Sécurité]
@@ -99,15 +101,10 @@ graph TD
     B --> B1[SI (Systèmes d'Information)]
     B --> B2[Logiciel]
     B --> B3[Applications]
-    B1 --> B1a[Gestion]
-    B2 --> B2a[Développement]
-    B3 --> B3a[Gestion des Identités]
     
     C --> C1[Sécurité SI]
     C --> C2[Conformité]
     C --> C3[Gestion des Identités]
-    C1 --> C1a[Conformité]
-    C2 --> C2a[Gestion des Risques]
     
     D --> D1[Réseaux d'Entreprise]
     
@@ -118,22 +115,53 @@ graph TD
     F --> F2[Data Engineering]
     
     G --> G1[Gestion des Projets]
-
-    B3a --> B3a1[Conformité]
-    B3a --> B3a2[Gestion des Risques]
     
-    C3 --> C3a[Conformité]
-    C3 --> C3b[Gestion des Risques]
+    % Architecture
+    B1 --> B1a[Gestion]
+    B2 --> B2a[Développement]
+    B3 --> B3a[Gestion des Identités]
     
-    E2 --> E2a[Sécurité]
-    E2 --> E2b[Optimisation]
-
+    % Sécurité
+    C1 --> C1a[Conformité]
+    C2 --> C2a[Gestion des Risques]
+    
+    % Réseaux
+    D1 --> D1a[Gestion des Réseaux]
+    
+    % Cloud
+    E1 --> E1a[Sécurité]
+    E2 --> E2a[Optimisation]
+    
+    % Données
     F1 --> F1a[Big Data]
     F1 --> F1b[Analytics]
     F2 --> F2a[Data Engineering]
     
-    G1 --> G1a[Transformation Numérique]
+    % Transformation Numérique
+    G1 --> G1a[Transformation]
     G1 --> G1b[Innovation Technologique]
+    
+    % Applications
+    B3a --> B3a1[Conformité]
+    B3a --> B3a2[Gestion des Risques]
+    
+    % Sécurité SI
+    C3 --> C3a[Conformité]
+    C3 --> C3b[Gestion des Risques]
+    
+    % Cloud
+    E2 --> E2a[Sécurité]
+    E2 --> E2b[Optimisation]
+
+    % Données
+    F1 --> F1a[Big Data]
+    F1 --> F1b[Analytics]
+    F2 --> F2a[Data Engineering]
+
+    % Transformation Numérique
+    G1 --> G1a[Gestion des Projets]
+    G1 --> G1b[Innovation Technologique]
+
 
 ```
 
