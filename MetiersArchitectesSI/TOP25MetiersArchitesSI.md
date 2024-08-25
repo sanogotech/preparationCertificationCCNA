@@ -91,14 +91,14 @@ Logiciel          |        |                |       |                |         |
 ```mermaid
 
 graph TD
-    A[Directeur des Systemes Information] --> B[Architecture]
+    A[Directeur des Systemes Information DSI] --> B[Architecture]
     A --> C[Sécurité]
     A --> D[Réseaux]
     A --> E[Cloud]
     A --> F[Données]
     A --> G[Transformation Numérique]
 
-    B --> B1[SI (Systèmes Information)]
+    B --> B1[SI ]
     B --> B2[Logiciel]
     B --> B3[Applications]
     
