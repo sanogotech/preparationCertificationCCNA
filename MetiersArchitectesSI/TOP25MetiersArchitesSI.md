@@ -115,10 +115,10 @@ graph TD
     G --> G1[Gestion des Projets]
     G --> G2[Transformation]
     G --> G3[Innovation Technologique]
-    
+
     % Architecture
     B1 --> B1a[Gestion]
-    B2 --> B2a[Developpement]
+    B2 --> B2a[Développement]
     B3 --> B3a[Gestion des Identités]
     
     % Sécurité
@@ -142,6 +142,7 @@ graph TD
     G1 --> G1a[Gestion des Projets]
     G2 --> G2a[Transformation]
     G3 --> G3a[Innovation Technologique]
+
 
 ```
 
