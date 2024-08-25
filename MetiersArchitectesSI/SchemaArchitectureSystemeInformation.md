@@ -575,7 +575,7 @@ graph TD
 
     %% Technologies Émergentes
     H --> H1[Technologies Émergentes]
-    H1 --> H1a[Internet des Objets (IoT)]
+    H1 --> H1a[Internet des Objets IoT ]
     H1 --> H1b[Blockchain]
     H1 --> H1c[Autres Innovations Technologiques]
 
