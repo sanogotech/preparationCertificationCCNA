@@ -98,7 +98,7 @@ graph TD
     A --> F[Données]
     A --> G[Transformation Numérique]
 
-    B --> B1[SI (Systèmes d'Information)]
+    B --> B1[SI (Systèmes Information)]
     B --> B2[Logiciel]
     B --> B3[Applications]
     
