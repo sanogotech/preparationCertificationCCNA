@@ -5,7 +5,6 @@
 Les Architectes jouent un rôle crucial au sein des Directions des Systèmes d'Information (DSI), en s'assurant que les systèmes informatiques sont conçus, intégrés et gérés de manière optimale pour répondre aux besoins de l'entreprise. Avec l'évolution rapide des technologies et des méthodes, les rôles des Architectes se diversifient et se spécialisent pour couvrir un large éventail de domaines critiques. Ce document présente un aperçu des 25 principaux métiers d'architectes dans une DSI, en détaillant leurs compétences clés, certifications recommandées, projets typiques et une roadmap pour atteindre l'expertise dans chaque domaine.
 
 ---
-
 ### **Top 25 des Métiers d'Architectes dans une Direction des Systèmes d'Information**
 
 | **Métiers d'Architectes**                           | **Compétences Clés**                                                                                                                       | **Certifications Recommandées**                                  | **Projets Recommandés**                                       | **Roadmap**                                                                                                                                                                          |
