@@ -54,9 +54,7 @@
 | **47. Conception de Systèmes de Reporting** | Création de systèmes pour le reporting et l'analyse des données                                           | Développement de systèmes de reporting et de tableaux de bord                                    |
 | **48. Gestion de la Transition Technologique** | Gestion des transitions entre les technologies et les systèmes                                            | Planification et exécution des migrations technologiques                                        |
 | **49. Connaissance des Méthodologies de Développement** | Utilisation des méthodologies pour le développement de logiciels                                          | Application des méthodologies telles que TDD, BDD, et DevOps                                    |
-| **50. Gestion des Archives Numériques**    
-
- | Gestion et conservation des archives et des données historiques                                            | Mise en place de solutions d'archivage numérique                                                 |
+| **50. Gestion des Archives Numériques**     | Gestion et conservation des archives et des données historiques                                            | Mise en place de solutions d'archivage numérique                                                 |
 
 #### **Top 20 des Certifications Recommandées**
 
@@ -150,9 +148,7 @@
 | **12. Gestion des Performances**           | Optimisation des performances des logiciels                                                             | Profilage et optimisation des performances                                                        |
 | **13. Connaissance des Frameworks**        | Utilisation des frameworks pour faciliter le développement de logiciels                                | Utilisation de frameworks comme Spring, Django, ou Angular                                     |
 | **14. Gestion des Configurations**         | Gestion des configurations et des dépendances des logiciels                                             | Utilisation de gestionnaires de configuration comme Ansible ou Puppet                          |
-| **15. Con
-
-ception de Services Web**         | Création de services web pour l'interopérabilité des systèmes                                          | Développement de services web RESTful ou SOAP                                                    |
+| **15. Conception de Services Web**         | Création de services web pour l'interopérabilité des systèmes                                          | Développement de services web RESTful ou SOAP                                                    |
 | **16. Développement de Logiciels Modulaire**| Conception de logiciels en modules pour faciliter la maintenance et l'évolution                           | Création de systèmes modulaires avec des composants réutilisables                              |
 | **17. Sécurité Logicielle**                | Mise en œuvre de pratiques de sécurité pour protéger les logiciels contre les vulnérabilités             | Application des principes de sécurité comme le chiffrement et l'authentification               |
 | **18. Conception d'Architecture Multi-Tiers** | Développement d'architectures logicielles avec plusieurs niveaux de traitement                           | Création d'architectures avec des couches de présentation, de logique métier et de données      |
