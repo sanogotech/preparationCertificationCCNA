@@ -4,24 +4,22 @@
 
 ```mermaid
 graph TD
-    A[Directeur des Systèmes d'Information] --> B[Architecture & API Manager/ESB]
-    A --> C[Sécurité]
-    A --> D[Réseaux]
-    A --> E[Cloud]
-    A --> F[Données]
-    A --> G[Transformation Numérique]
-    A --> I[Intelligence Artificielle]
+    A[Directeur des Systèmes d'Information] --> B[Architecture SI]
+    A --> C[Sécurité & Cloud]
+    A --> D[Réseaux & Données]
+    A --> G[Transformation Numérique & Intelligence Artificielle]
     A --> J[Blockchain]
 ```
 
-### Détails Supplémentaires - Architecture & API Manager/ESB
+### Détails Supplémentaires - Architecture SI
 
 ```mermaid
 graph TD
-    B[Architecture & API Manager/ESB] --> B1[Urbanisation SI]
+    B[Architecture SI] --> B1[Urbanisation SI]
     B --> B2[Architecture Logicielle]
     B --> B3[Architecture Applicative]
     B --> H[API Manager/ESB]
+    B --> I[Gestion des Applications]
 
     %% Urbanisation SI
     B1 --> B1a[Gestion Urbanisation SI]
@@ -45,6 +43,10 @@ graph TD
     %% Enterprise Service Bus
     H2 --> H2a[Architecture ESB]
     H2 --> H2b[Intégration des Applications]
+
+    %% Gestion des Applications
+    I --> I1[Gestion des Applications]
+    I --> I2[Développement et Déploiement]
 ```
 
 ### Détails Supplémentaires - Sécurité & Cloud
@@ -155,4 +157,4 @@ graph TD
     J3 --> J3b[Audit et Vérification]
 ```
 
-Ces schémas regroupent les axes principaux en deux grands domaines pour chaque schéma, facilitant la compréhension des relations et des processus associés.
+Ces modifications permettent une vue claire des sous-ensembles spécifiques dans chaque domaine tout en montrant leurs relations et interactions avec les autres parties du système.
