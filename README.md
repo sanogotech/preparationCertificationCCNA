@@ -1,5 +1,7 @@
 ### **Top 100 des Métiers en Direction des Systèmes d'Information**
 
+
+
 #### **Introduction**
 Les métiers au sein d'une Direction des Systèmes d'Information (DSI) sont variés et couvrent une large gamme de compétences nécessaires pour la gestion, la sécurité, et l'innovation des systèmes informatiques dans les entreprises. Avec l'évolution rapide des technologies, les DSI doivent s'adapter aux nouvelles tendances comme l'IoT, l'intelligence artificielle, le big data, le cloud, et les méthodologies modernes telles que DevSecOps et Agile. Ce panorama des métiers reflète les différents rôles essentiels pour assurer le bon fonctionnement, la sécurité, et l'innovation des systèmes informatiques.
 
