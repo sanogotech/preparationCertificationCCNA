@@ -110,20 +110,56 @@ Les métiers au sein d'une Direction des Systèmes d'Information (DSI) sont vari
 | **69. Analyste en Intelligence Artificielle** | Analyse et conçoit des solutions d'IA pour résoudre des problèmes complexes et optimiser les systèmes. | Intelligence Artificielle, Machine Learning        | AI Certification                      | Responsable IA                      |
 | **70. Responsable de l'Agilité**            | Implémente et supervise les pratiques agiles pour améliorer l'efficacité des processus de développement. | Méthodologies Agiles, Scrum                         | Certified Scrum Master               | Directeur Agilité                   |
 
+
+Voici un tableau supplémentaire avec 30 autres métiers dans le domaine des systèmes d'information pour compléter la liste des 100 métiers :
+
+| **N°** | **Métier**                           | **Description**                                                             | **Compétences Clés**                                  | **Certifications Recommandées**         | **Évolution de Carrière**               |
+|--------|--------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------|----------------------------------------|----------------------------------------|
+| **71** | Développeur Full Stack                | Conçoit des applications web en travaillant sur le front-end et le back-end. | JavaScript, HTML, CSS, Node.js, React                | Full Stack Developer Certification      | Lead Développeur Full Stack             |
+| **72** | Responsable de la Continuité des Activités | Assure la continuité des services IT en cas de perturbations majeures.       | Plan de Continuité, Gestion des Risques              | ISO/IEC 22301, Certified Business Continuity Professional | Directeur Continuité des Activités      |
+| **73** | Architecte de Sécurité                | Conçoit des solutions de sécurité pour protéger les infrastructures IT.      | Sécurité Informatique, Architecture de Sécurité      | CISSP, CISM                             | Directeur Sécurité Informatique         |
+| **74** | Analyste en Cryptographie             | Développe et évalue des systèmes de cryptographie pour protéger les données.  | Cryptographie, Algorithmes de Chiffrement            | Certified Encryption Specialist         | Responsable Cryptographie               |
+| **75** | Responsable de la Gestion des Identités et des Accès | Gère les systèmes d'authentification et d'autorisation pour sécuriser l'accès aux ressources. | IAM, Sécurité des Identités                           | Certified Identity and Access Manager   | Directeur IAM                           |
+| **76** | Ingénieur en Automatisation des Tests | Développe des scripts et des outils pour automatiser les tests de logiciels.  | Automatisation des Tests, Scripting                   | ISTQB Advanced Test Automation Engineer | Responsable Automatisation des Tests    |
+| **77** | Développeur en Systèmes Embarqués     | Crée des logiciels pour des systèmes embarqués dans divers appareils.        | Programmation Embarquée, C/C++, RTOS                  | Embedded Systems Certification          | Lead Développeur Systèmes Embarqués     |
+| **78** | Analyste en Blockchain                | Conçoit et implémente des solutions basées sur la technologie blockchain.     | Blockchain, Cryptographie, Développement Smart Contracts | Blockchain Certification           | Responsable Blockchain                  |
+| **79** | Responsable de la Transformation Agile | Conduit des initiatives de transformation agile au sein des organisations.    | Méthodologies Agiles, Scrum, Kanban                    | Certified Agile Coach, PMP              | Directeur Transformation Agile          |
+| **80** | Ingénieur en DevOps                   | Intègre les pratiques de développement et d'exploitation pour améliorer le cycle de vie des applications. | DevOps, CI/CD, Automatisation                          | DevOps Certification, Certified Jenkins Engineer | Responsable DevOps                   |
+| **81** | Consultant en Gouvernance IT          | Aide les organisations à établir des pratiques de gouvernance pour l'IT.      | Gouvernance IT, Compliance                             | COBIT, ITIL                             | Directeur Gouvernance IT                |
+| **82** | Responsable des Opérations IT         | Supervise les opérations quotidiennes des systèmes IT pour garantir leur performance. | Gestion des Opérations IT, ITIL                      | ITIL, CompTIA                           | Directeur Opérations IT                 |
+| **83** | Architecte en Réseau de Télécommunication | Conçoit des réseaux de télécommunication pour les besoins d'entreprise.      | Réseaux, Télécommunication, Sécurité Réseau            | CCIE, Certified Telecom Network Specialist | Directeur Réseau Télécom              |
+| **84** | Spécialiste en Analyse Forensique     | Analyse les incidents de sécurité pour identifier les causes et les impacts. | Analyse Forensique, Sécurité Informatique              | CEH, GCFA                               | Responsable Analyse Forensique          |
+| **85** | Développeur en Réalité Mixte          | Crée des expériences immersives en combinant réalité virtuelle et augmentée. | Réalité Mixte, Développement 3D                        | MR Certification                        | Lead Développeur Réalité Mixte          |
+| **86** | Responsable de la Gestion des Actifs IT | Gère et optimise les actifs informatiques de l'entreprise.                   | Gestion des Actifs, ITIL                               | ITIL, Certified Asset Management Professional | Directeur Gestion des Actifs IT        |
+| **87** | Analyste en Gestion de la Conformité   | Assure que les systèmes IT respectent les exigences réglementaires.         | Conformité, Réglementation                             | CISA, ISO/IEC 27001                      | Responsable Conformité IT              |
+| **88** | Spécialiste en Sécurité des Applications | Évalue et sécurise les applications contre les vulnérabilités et les menaces. | Sécurité des Applications, Analyse des Vulnérabilités  | CSSLP, CEH                              | Directeur Sécurité des Applications     |
+| **89** | Consultant en Stratégie Numérique     | Conseille sur la transformation numérique pour améliorer les performances.  | Stratégie Numérique, Gestion du Changement             | Digital Transformation Certification     | Directeur Stratégie Numérique           |
+| **90** | Responsable de la Gestion des Données | Assure la gestion, l'intégrité et la qualité des données au sein de l'organisation. | Gestion des Données, Data Governance                  | CDMP, Data Governance Certification       | Directeur Gestion des Données          |
+| **91** | Développeur en Systèmes de Communication | Conçoit des systèmes pour la communication et la collaboration d'entreprise. | Systèmes de Communication, Protocoles Réseau           | Communication Systems Certification     | Lead Développeur Communication         |
+| **92** | Analyste en Sécurité des Réseaux       | Évalue et sécurise les réseaux contre les menaces et les vulnérabilités.    | Sécurité des Réseaux, Analyse des Menaces              | CCNP Security, CISSP                    | Responsable Sécurité des Réseaux        |
+| **93** | Architecte en Infrastructure Cloud     | Conçoit des architectures cloud pour optimiser les ressources et la performance. | Cloud Computing, Architectures Cloud                 | AWS Certified Solutions Architect      | Directeur Architecture Cloud           |
+| **94** | Responsable de l'Analyse et des Rapports | Crée des rapports et des analyses pour soutenir les décisions stratégiques. | Analyse de Données, Reporting                           | Data Analysis Certification            | Directeur Analyse et Rapports          |
+| **95** | Consultant en Conformité des Systèmes | Assure que les systèmes respectent les exigences de conformité et de sécurité. | Conformité Systèmes, Sécurité                          | CISM, ISO/IEC 27001                     | Responsable Conformité Systèmes        |
+| **96** | Ingénieur en Intelligence Artificielle Appliquée | Développe des solutions d'IA adaptées aux besoins spécifiques des entreprises. | IA, Machine Learning, Data Science                    | AI Certification                       | Lead Ingénieur IA Appliquée            |
+| **97** | Responsable de la Gestion des Projets Cloud | Planifie et supervise les projets liés au cloud pour assurer leur succès.   | Gestion de Projets Cloud, Architecture Cloud           | PMP, AWS Certified Cloud Practitioner   | Directeur Projets Cloud                |
+| **98** | Analyste en Évaluation des Risques    | Évalue les risques informatiques pour identifier les vulnérabilités et les menaces. | Évaluation des Risques, Analyse des Vulnérabilités    | CISM, CRISC                             | Responsable Évaluation des Risques     |
+| **99** | Spécialiste en Méthodes Agiles        | Met en œuvre des méthodes agiles pour améliorer les processus de développement et de gestion. | Méthodes Agiles, Scrum, Kanban                        | Certified Scrum Master, Agile Coach     | Directeur Méthodes Agiles              |
+| **100** | Consultant en Innovation Technologique | Accompagne les entreprises dans l'adoption de nouvelles technologies innovantes. | Innovation Technologique, Gestion de Projets           | PMP, Certification en Innovation        | Directeur Innovation Technologique     |
+
 ### Conclusion
 
-Cette liste des métiers IT, enrichie des nouveaux secteurs émergents comme l'IoT, l'Intelligence Artificielle, le Big Data, et le Cloud, reflète l'évolution dynamique du domaine de l'informatique. Ces rôles ne sont pas seulement des opportunités de carrière intéressantes, mais aussi des réponses stratégiques aux défis modernes en matière de technologie. 
+Cette liste étendue des métiers dans le domaine des systèmes d'information reflète les divers aspects du secteur, allant des technologies émergentes comme l'IoT et l'IA aux rôles traditionnels mais toujours cruciaux tels que les développeurs et les architectes. 
 
-**Enjeux** : S'adapter aux évolutions rapides de la technologie, intégrer les dernières innovations pour rester compétitif et répondre aux besoins croissants des entreprises en matière de sécurité et de gestion des données.
+**Enjeux** : L'évolution rapide des technologies impose aux professionnels de rester à jour et de s'adapter continuellement aux nouvelles tendances.
 
-**Objectifs** : Développer des compétences spécifiques dans des domaines en forte croissance, comprendre les exigences des différents rôles et se préparer aux défis de l'industrie technologique.
+**Objectifs** : Identifier les opportunités de carrière dans des domaines spécialisés, comprendre les compétences requises pour chaque rôle, et se préparer aux défis du secteur IT.
 
-**Défis** : Gérer la complexité croissante des systèmes informatiques, assurer la sécurité et la conformité, et adopter de nouvelles technologies tout en maintenant une efficacité opérationnelle.
+**Défis** : La complexité croissante des systèmes, la nécessité de suivre des formations continues, et la gestion des exigences en constante évolution des entreprises.
 
-**Risques** : Cyberattaques, obsolescence rapide des technologies, et défis liés à la gestion de la confidentialité et des données.
+**Risques** : Risques de sécurité, obsolescence des compétences, et défis liés à la gestion des nouveaux outils et technologies.
 
-**Opportunités** : L'émergence de nouveaux secteurs comme l'IA et le Cloud offre de nombreuses possibilités de croissance professionnelle et d'innovation.
+**Opportunités** : Croissance dans des domaines innovants comme l'IA, le Cloud, et le Big Data, avec des possibilités d'évolution vers des rôles de leadership et de spécialisation.
 
-**Menaces** : La concurrence accrue sur le marché de l'emploi IT, les défis en matière de sécurité et les régulations de plus en plus strictes.
+**Menaces** : Compétition accrue dans le secteur, risques de cybersécurité, et pressions pour maintenir la conformité aux régulations.
 
-Cette vue d'ensemble met en lumière les divers métiers et les compétences requises pour naviguer dans le paysage technologique actuel, offrant une perspective complète sur les opportunités et défis de carrière dans le domaine IT.
+Cette vue complète des métiers IT permet de mieux comprendre les opportunités et les défis dans un secteur en constante évolution.
