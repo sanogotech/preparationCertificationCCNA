@@ -50,6 +50,8 @@ graph TD
     A --> F[Données]
     A --> G[Transformation Numérique]
     A --> H[Innovation Technologique]
+    A --> I[Contrôle de Gestion et Budget]
+
 ```
 
 ------------------
