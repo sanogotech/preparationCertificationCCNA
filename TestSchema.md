@@ -1,4 +1,4 @@
-Pour simplifier le schéma en regroupant les sous-domaines sous **Architecture SI** tout en intégrant les éléments connexes (API Manager/ESB et Gestion des Applications) comme des sous-éléments, voici la version mise à jour :
+
 
 ### Schéma Global Simplifié
 
@@ -11,6 +11,8 @@ graph TD
     A --> G[Transformation Numérique]
     A --> H[Innovation Technologique]
 ```
+
+------------------
 
 ### Détails Supplémentaires - Architecture SI
 
@@ -30,9 +32,10 @@ graph TD
 
     %% Architecture Applicative
     B3 --> B3a[Gestion des Applications]
+    B3 --> B3b[Intégration d'Applications]
 
-    %% API Manager/ESB
-    B --> H[API Manager/ESB]
+    %% Intégration d'Applications
+    B3b --> H[API Manager/ESB]
     H --> H1[Gestion des API]
     H --> H2[Enterprise Service Bus]
 
@@ -43,13 +46,13 @@ graph TD
     %% Enterprise Service Bus
     H2 --> H2a[Architecture ESB]
     H2 --> H2b[Intégration des Applications]
-    
-    %% Gestion des Applications
-    B --> I[Gestion des Applications]
-    I --> I1[Gestion des Applications]
-    I --> I2[Développement et Déploiement]
 ```
 
+### Explications des Modifications :
+
+1. **Gestion des Applications** et **Intégration d'Applications** sont maintenant regroupés sous **Architecture Applicative** pour éviter les doublons.
+2. **API Manager/ESB** a été déplacé sous **Intégration d'Applications**, ce qui simplifie l'organisation et la hiérarchie des composants.
+3. Les détails sur la gestion des API et l'Enterprise Service Bus sont inclus dans le sous-bloc **Intégration d'Applications**, consolidant ainsi les éléments associés.
 ### Détails Supplémentaires - Sécurité
 
 ```mermaid
