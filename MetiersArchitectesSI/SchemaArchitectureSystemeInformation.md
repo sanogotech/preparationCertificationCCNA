@@ -70,7 +70,7 @@ graph TD
     B1 --> B1b[Zonage Fonctionnel]
     B1 --> B1c[Évolution Modulaire du SI]
 ```
-Voici une version améliorée et détaillée de votre texte sur les axes de l'architecture et urbanisation des systèmes d'information, avec un tableau de synthèse complet :
+
 
 ---
 
