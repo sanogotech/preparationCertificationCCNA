@@ -527,6 +527,7 @@ graph TD
 
 
 **Version2** :
+
 ```mermaid
 graph TD
     F[Données] --> J[BI/Reporting]
@@ -534,7 +535,9 @@ graph TD
     F --> F2[Ingénierie des Données]
     F --> I[Intelligence Artificielle]
 
-
+    %% BI/Reporting
+    J --> J1[Business Intelligence]
+    J --> J2[Reporting  & Tableaux de Bord]
 
     %% Big Data & Analytics
     F1 --> F1a[Big Data]
@@ -547,7 +550,7 @@ graph TD
     I --> I1[Machine Learning]
     I --> I2[Analyse Prédictive]
     I --> I3[Automatisation Intelligente]
-```mermaid
+```
 
 Voici les deux schémas Mermaid demandés, détaillant les sous-domaines de **Gestion des Projets/Agile at Scale/Transformation Digitale** et **Innovation Technologique** :
 
