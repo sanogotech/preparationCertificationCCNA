@@ -534,9 +534,7 @@ graph TD
     F --> F2[Ingénierie des Données]
     F --> I[Intelligence Artificielle]
 
-    %% BI/Reporting
-    J --> J1[Business Intelligence]
-    J --> J2[Reporting & Tableaux de Bord]
+
 
     %% Big Data & Analytics
     F1 --> F1a[Big Data]
