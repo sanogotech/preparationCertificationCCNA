@@ -551,6 +551,33 @@ graph TD
     K --> K3[Amélioration de l'Efficacité Organisationnelle]
 ```
 
+
+
+**Version2**
+
+```mermaid
+graph TD
+    G[Gestion des Projets/Agile at Scale/Transformation Digitale]
+
+    %% Gestion des Projets/Agile at Scale
+    G --> I[Gestion des Projets/Agile at Scale]
+    I --> I1[Méthodologies Agiles]
+    I --> I2[Gestion de Portefeuille]
+    I --> I3[Adaptation Rapide]
+
+    %% Contrôle de Gestion et Budget
+    G --> J[Contrôle de Gestion et Budget]
+    J --> J1[Surveillance Financière]
+    J --> J2[Optimisation Budgétaire]
+    J --> J3[Analyse Coûts-Bénéfices]
+
+    %% Transformation Digitale
+    G --> K[Transformation Digitale]
+    K --> K1[Digitalisation des Processus]
+    K --> K2[Intégration Technologique]
+    K --> K3[Amélioration Efficacité]
+```
+
 ### Explication :
 - **Gestion des Projets/Agile at Scale** (I)
   - **Application des Méthodologies Agiles à Grande Échelle** : Utilisation des méthodes agiles adaptées à des projets plus complexes et plus larges.
